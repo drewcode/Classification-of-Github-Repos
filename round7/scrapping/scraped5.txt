@@ -1,0 +1,192 @@
+-->Necrobot-Private/NecroBot
+Pokémon Go 0.45 API is now Supported!The contents of this repo are a proof of concept and are for educational use onlyScreenshotsGui AppConsole AppGetting StartedMake sure you check out our Wiki to get started.<---- Wiki links will be updated soon. Stay tuned.Awesome Test Features
+
+-->trntv/yii2-starter-kit
+Yii 2 Starter KitThis is Yii2 start application template.It was created and developing as a fast start for building an advanced sites based on Yii2.It covers typical use cases for a new project and will help you not to waste your time doing the same work in every projectBefore you startPlease, consider helping project via contributions or donations.TABLE OF CONTENTSDemoFeatures
+
+-->twitter/finagle
+FinagleStatusThis project is used in production at Twitter (and many other organizations),and is being actively developed and maintained.ReleasesReleasesare done on an approximately monthly schedule. While semveris not followed, the changelogs are detailed and include sections onpublic API breaks and changes in runtime behavior.
+
+-->quasar-analytics/quasar
+Thanks to SponsorsYourKit supports open source projects with its full-featured Java Profiler. YourKit, LLC is the creator of YourKit Java Profiler and YourKit .NET Profiler, innovative and intelligent tools for profiling Java and .NET applications.QuasarQuasar is an open source NoSQL analytics engine that can be used as a library or through a REST API to power advanced analytics across a growing range of data sources and databases, including MongoDB.SQL²SQL² is the dialect of SQL that Quasar understands.SQL² is a superset of standard SQL. Therefore, in the following documentation SQL² will be used interchangeably with SQL.See the SQL² tutorial for more info on SQL².SQL² supports variables inside queries (SELECT * WHERE pop < :cutoff). Values for these variables, which can be any expression, should be specified as additional parameters in the url, using the variable name prefixed by var. (e.g. var.cutoff=1000). Failure to specify valid values for all variables used inside a query will result in an error. These values use the same syntax as the query itself; notably, strings should be surrounded by double quotes. Some acceptable values are 123, "CO", and DATE("2015-07-06").
+
+-->http4s/http4s
+Aug 24, 2016build.sbtSupport Scala 2.12Nov 16, 2016codecov.ymlReconfigure codecovAug 26, 2016scalastyle-config.xmlIntroduce scalastyle, use it to clean up core
+
+-->htacg/tidy-html5
+HTML Tidy with HTML5 supportAll READMEs and related materials can be found in README/.For build instructions please see README/-->RetroPie/RetroPie-Setup
+, CONTRIBUTING and bashwelcometweak …Apr 6, 2016-->mamedev/mame
+MAMEBuild status for tiny build only, containing just core parts of projectOS/CompilerStatusLinux GCC / OSX ClangWindows MinGWWhat is MAME?MAME originally stood for Multiple Arcade Machine Emulator.MAME's purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus.
+
+-->rshipp/awesome-malware-analysis
+Awesome Malware AnalysisA curated list of awesome malware analysis tools and resources. Inspired byawesome-python andawesome-php.Awesome Malware AnalysisMalware CollectionAnonymizersHoneypotsMalware Corpora
+
+-->HowardHinnant/date
+Oct 22, 2016chrono_io.hSimplify implementation details of "chrono_io.h"Oct 8, 2016date.hFix formatting bug with %EzNov 13, 2016ios.hMiscellaneous changes while enabling iOS support
+
+-->WhiteBlue/bilibili-go
+bilibili-goBiliBili API written in GoProgressRankSortRank (order by danmu/comment/hot)VideoVideoInfoVideoLin (mp4/flv)User
+
+-->vit9696/AppleALC
+AppleALCAn open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications.FeaturesAudio support starting from the OS installationRecovery HD/macOS Installer audio supportAutomated codec detectionUnsupported audio controller enablingArbitrary kext patchingCustom platform/layout injection
+
+-->quasar/QuasarRAT
+QuasarRATFree, Open-Source Remote Administration Tool for WindowsQuasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.FeaturesTCP network stream (IPv4 & IPv6 support)Fast network serialization (NetSerializer)Compressed (QuickLZ) & Encrypted (AES-128) communicationMulti-ThreadedUPnP Support
+
+-->mhaagens/react-mobx-react-router4-boilerplate
+Update -->hootsuite/grid
+Nov 5, 2015bower.jsonAdd license fieldOct 21, 2016index.htmlAdd missing doctypeOct 27, 2015package.json0.4.0
+
+-->hybridgroup/gobot
+Gobot (http://gobot.io/) is a framework using the Go programming language (http://golang.org/) for robotics, physical computing, and the Internet of Things.It provides a simple, yet powerful way to create solutions that incorporate multiple, different hardware devices at the same time.Want to use Javascript robotics? Check out our sister project Cylon.js (http://cylonjs.com/)Want to use Ruby on robots? Check out our sister project Artoo (http://artoo.io)Getting StartedGet the Gobot source with: go get -d -u github.com/hybridgroup/gobot/...ExamplesGobot with Arduinopackage main
+
+-->lzyzsd/JsBridge
+JsBridgeinspired and modified from this and wechat jsBridge file, with some bugs fix and feature enhancement.This project make a bridge between Java and JavaScript.It provides safe and convenient way to call Java code from js and call js code from java.DemoUsageJitPack.ioI strongly recommend https://jitpack.iorepositories {
+
+-->uku/Unblock-Youku
+Unblock YoukuThis project contains two parts (closely related with shared JavaScript code).A Google Chrome extension helping users access their web services while travelling outside mainland China. You can find this extension on Chrome Web Store at http://uku.im/chrome.A Node.js based backend server that supports the redirect mode of the Chrome extension.DisclaimerInstalling/using the software/service, you agree that the software/service is only for study purposes and its authors and/or service providers take no responsibilities for any consequences.LicenseThe source code is released under AGPL v3 or (at your option) any later version.Credits
+
+-->typcn/bilibili-mac-client
+Update -->motdotla/node-lambda
+Update -->pwittchen/ReactiveNetwork
+ReactiveNetworkReactiveNetwork is an Android library listening network connection state and Internet connectivity with RxJava Observables. It's a successor of Network Events library rewritten with Reactive Programming approach.Library is compatible with RxJava 1.+ and RxAndroid 1.+ and uses them under the hood.Library supports both new and legacy network monitoring strategies.min sdk version = 9JavaDoc is available at: http://pwittchen.github.io/ReactiveNetwork/Important note❗️: Since version 0.4.0, functionality releated to observing WiFi Access Points and WiFi singal strength (level) is removed in favor of ReactiveWiFi library.If you want to use this functionality, check ReactiveWiFi project.If you want to see all changes in the public API, check release notes and JavaDoc.
+
+-->mhagger/git-imerge
+-->logstash/logstash-logback-encoder
+!! This document applies to the next version under development.See here for documentation on the latest released version.Logback JSON encoderProvides logback encoders, layouts, and appenders to log in JSON format.Supports both regular LoggingEvents (logged through a Logger) and AccessEvents (logged via logback-access).Originally written to support output in logstash's JSON format, but has evolved into a highly-configurable, general-purpose, JSON logging mechanism.The structure of the JSON output, and the data it contains, is fully configurable.Contents:Including it in your project
+
+-->laurilehmijoki/s3_website
+Deploy your website to S3What s3_website can do for youCreate and configure an S3 website for youUpload your static website to AWS S3Jekyll, Nanoc, and Middleman are automatically supportedHelp you use AWS Cloudfront to distribute your websiteImprove page speed with HTTP cache control and gzippingSet HTTP redirects for your website(for other features, see the documentation below)
+
+-->jxcore/jxcore
+Evented I/O for (Chakra, SpiderMonkey, V8, and..) JavaScriptJXcore extends Node.JS™ with additional features for developing mobile andembedded applications using JavaScript and leveraging the Node ecosystem.Master build status:Important Notice:Nubisa halting active development on JXcore platformFeatures includeSupport for core Node.JS featuresEmbeddable Interface
+
+-->irssi/irssi
+IrssiIrssi is a modular chat client that is most commonly known for itstext mode user interface, but 80% of the code isn't text modespecific. We have a working but currently unmaintained GTK2 frontendcalled xirssi. Irssi comes with IRC support built in, and there arethird party ICB,SILC,XMPP (Jabber),PSYC and
+
+-->openai/requests-for-research
+Requests for ResearchIt's easy to get started in deep learning, with manyresourcesto learn the latest techniques. But it's harder to know what problemsare worth working on.This repository contains a living collection of important and funproblems to help new people enter the field, and for enthusiasticpractitioners to hone their skills. Many will require inventing newideas.
+
+-->libimobiledevice/libimobiledevice
+-->mcamara/laravel-localization
+Jun 16, 2016circle.ymlAdded circle configurationNov 14, 2015composer.jsonUpdate composer.jsonOct 17, 2016phpunit.xmlMore fixes to readability, getRouteNameFromAPath returns array
+
+-->hlissner/.emacs.d
+This is an Emacs configuration for a stubborn, melodramatic andshell-dwelling vimmer disappointed with the text-editor status quo.Doom tries to look and act like modern editors (whatever that willmean to me on any given day), emulates vim as best it can and strivesto surpass it in any way possible. All to fit my needs as a softwaredeveloper, indie game developer, UX designer, scientist and doomenthusiast.It was tailored for GUI Emacs 25+ on OSX 10.11+ andArch Linux 4.7+. I use vim everywhere else.
+
+-->jmhobbs/cultofthepartyparrot.com
+cultofthepartyparrot.com........:oo:........o//ssssssssyhhysssss+////o.'''''''''''''''''.mddmmm/::ddddddddddddddmmmyss::/mmN|PARTY OR DIE|o..+oodddmmmhhhhhhhhhhhdmmmmmdddooy
+
+-->hilongjw/vue-datepicker
+vue-datepickercalendar and datepicker component with material design for Vue.jsDemoThe demo page is HERE.RequirementsVue.js ^1.0.0 & ^2.0.0moment ^2.11.1Instllationnpm
+
+-->PHPOffice/PhpSpreadsheet
+Oct 27, 2016composer.jsonUpdate composer.jsonOct 24, 2016license.mdAdded readme and license fileJul 5, 2012phpunit.xml.distRespect PSR-0 with matching folder name and namespace `PhpSpreadsheet…
+
+-->yscoder/hexo-theme-indigo
+hexo-theme-material-indigoMaterial Design 风格的Hexo主题，基于 Hexo 3.0+ 制作。 Preview现有两个主题分支，我的博客中使用的是 card 分支卡片风格主题，master 分支是旧版平铺式风格主题。Feature仅支持 IE10+ 等现代浏览器。去 jQuery，更轻。相信现代浏览器的原生兼容性。使用 Less 作为 css 预处理器，需要安装 hexo-renderer-less。添加了英文字体支持 Roboto。添加了一些波纹效果。By Waves
+
+-->kylefox/jquery-modal
+A simple & lightweight method of displaying modal windows with jQuery.For quick examples and demos, head to jquerymodal.com.Why another modal plugin?Most plugins I've found try to do too much, and have specialized ways of handling photo galleries, iframes and video.The resulting HTML & CSS is often bloated and difficult to customize.By contrast, this plugin handles the two most common scenarios I run intodisplaying an existing DOM elementloading a page with AJAXand does so with as little HTML & CSS as possible.
+
+-->tomaka/glium
+gliumElegant and safe OpenGL wrapper.Glium is an intermediate layer between OpenGL and your application. You still need to manually handlethe graphics pipeline, but without having to use OpenGL's old and error-prone API.[dependencies]glium = "*"Its objectives:Be safe to use. Many aspects of OpenGL that can trigger a crash if misused are automatically handled by glium.Provide an API that enforces good practices such as RAII or stateless function calls.
+
+-->rakshasa/rtorrent
+-->Hesto/multi-auth
+-->henrytao-me/smooth-app-bar-layout
+smooth-app-bar-layoutThis is a smooth version of Google Support Design AppBarLayout. If you are using AppBarLayout, you will know it has an issue with fling. Check out these threads to know about that problem:http://stackoverflow.com/questions/30923889/flinging-with-recyclerview-appbarlayouthttps://code.google.com/p/android/issues/detail?id=177729...If you find that it still doesn't meet your need, don't hesitate to send me a request. I love to work with you to solve problems. Send a request HEREInstallationcompile "me.henrytao:smooth-app-bar-layout:<latest-support-design-version>.<latest-smooth-app-bar-layout-fix>"Example: if the latest support design version is 24.1.0 and SmoothAppBarLayout fix is 0, please use compile "me.henrytao:smooth-app-bar-layout:24.1.0.0"smooth-app-bar-layout is an UI library and pretty much depended on AppCompat and Support Design. So that, versioning is quite the same with those libraries from Google.
+
+-->henkaku/henkaku
+BuildOnly Linux is supported. You will need:roptoolPython 3Ruby (specifically, the erb command-line tool)Vita SDK: download from https://goo.gl/QpX5zMUglify JS (Ubuntu 16.04 package node-uglify) tested version 2.4.15Other standard tools that you should already have installed, such as openssl, dd, cat, touchAll tools should be in your PATH.
+
+-->lukesampson/scoop
+ScoopScoop is a command-line installer for Windows.Requirements:PowerShell 3PowerShell must be enabled for your user account e.g. set-executionpolicy unrestricted -s cuTo install:iex (new-object net.webclient).downloadstring('https://get.scoop.sh')Once installed, run scoop help for instructions.What does Scoop do?
+
+-->helpyio/helpy
+Oct 31, 2016RakefileFirst commit on road to Rails 4.2 compatibilityMar 16, 2015app.jsonUpdate refs to scott/helpyMar 12, 2016bower.jsonmoved bower repos into vendor, install icon picker plugin
+
+-->ytisf/theZoo
+AbouttheZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis we have decided to gather all of them for you in an available and safe way.theZoo was born by Yuval tisf Nativ and is now maintained by Shahak Shalev.theZoo is open and welcoming visitors!DisclaimertheZoo's purpose is to allow the study of malware and enable people who are interested in malware analysis or maybe even as a part of their job to have access to live malware, analyse theways they operate and maybe even enable advanced and savvypeople to block specific malwares within their own environment.Please remember that these are live and dangerous malware! They come encrypted and locked for a reason!
+
+-->helmuthdu/aui
+Project only accepting patchesThis project is not actively developed but will accept PRsArchlinux U InstallInstall and configure archlinux has never been easier!You can try it first with a virtualboxPrerequisitesA working internet connectionLogged in as 'root'How to get it
+
+-->vfleaking/uoj
+Universal Online JudgeDependenceThis is a dockerized version of UOJ. Before installation, please make sure that Docker has already been installed on your OS.The docker image of UOJ is 64-bit, so a 32-bit host OS may cause installation failure.InstallationFirst please download JDK7u76 and JDK8u31, and put them to docker/jdk-7u76-linux-x64.tar.gz and docker/jdk-8u31-linux-x64.tar.gz. These two compressed files are used by judge_client for judging Java program. If you are too lazy to download these two huge files, you can simply place two empty .tar.gz files there.Next, you can run the following command in your terminal: (not the one in the docker/ directory!)./installIf everything goes well, you will see Successfully built <image-id> in the last line of the output.
+
+-->PurpleI2P/i2pd
+i2pdРусская версияi2pd (I2P Daemon) is a full-featured C++ implementation of I2P client.I2P (Invisible Internet Protocol) is a universal anonymous network layer.All communications over I2P are anonymous and end-to-end encrypted, participantsdon't reveal their real IP addresses.I2P client is a software used for building and using anonymous I2Pnetworks. Such networks are commonly used for anonymous peer-to-peerapplications (filesharing, cryptocurrencies) and anonymous client-server
+
+-->internetarchive/heritrix3
+ to dist/README.txt so that maven bundles it in …Jan 10, 2014pom.xmlSwitch to Java 1.7Mar 8, 2016-->owncloud/android
+May 24, 2016SETUP.mdUpdated SDK and platform versions requirements in SETUP.mdAug 29, 2016THIRD_PARTY.txtUpdated copyrightAug 9, 2016build.gradleFinish action mode when drawer starts to open, recover it when drawer…
+
+-->mgp25/Chat-API
+Chat APIInterface to WhatsApp MessengerRead the wiki and previous issues before opening a new one! Maybe your issue is already answered.For new WhatsApp updates check WhatsApp incoming updates logDo you like this project? Support it by donatingPaypal: DonateBitcoin: 1DCEpC9wYXeUGXS58qSsqKzyy7HLTTXNYeInstallationcomposer require whatsapp/chat-api
+
+-->HazyResearch/snorkel
+Oct 3, 2016install-parser.shFixes CoreNLP installer script to run on fresh MacsMar 29, 2016python-package-requirement.txtBut with the right version this time.Sep 15, 2016run.shFixes #222
+
+-->HazyResearch/deepdive
+DeepDiveSee deepdive.stanford.edu or doc/ to learn how to install and use DeepDive.Or, just start with this one-liner command:bash <(curl -fsSL git.io/getdeepdive)Read the DeepDive developer's guide to learn more about this source tree and how to contribute.Licensed under Apache License, Version 2.0.Contact GitHubAPITraining
+
+-->NanoHttpd/nanohttpd
+NanoHTTPD – a tiny web server in JavaNanoHTTPD is a light-weight HTTP server designed for embedding in other applications, released under a Modified BSD licence.It is being developed at Github and uses Apache Maven for builds & unit testing:Build status:Coverage Status:Current central released version:QuickstartWe'll create a custom HTTP server project using Maven for build/dep system. This tutorial assumes you are using a Unix variant and a shell. First, install Maven and Java SDK if not already installed. Then run:mvn compile
+
+-->rangle/redux-segment
+Redux SegmentSegment.io analytics integration for redux.npm install --save redux-segmentFeaturesSend your data to over 100 apps with the flip of a switch (e.g. GoogleAnalytics, Mixpanel, Optimizely, Facebook Ads, Slack, Sentry, and manymore...).You only need one snippet and you can turn integrations on and offwhenever you want.
+
+-->ripienaar/free-for-dev
+free-for-devDevelopers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.The scope of this particular list is limited to things infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a bit of a grey line at times so this is a bit opinionated; do not be offended if I do not accept your contribution.You can help by sending Pull Requests to add more services. Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).NOTE: This list is only for as-a-Service offerings, not for self hosted software.Table of ContentsSource Code ReposTools for Teams and Collaboration
+
+-->tweepy/tweepy
+Tweepy: Twitter for Python!InstallationThe easiest way to install the latest versionis by using pip/easy_install to pull it from PyPI:pip install tweepyYou may also use Git to clone the repository fromGithub and install it manually:git clone https://github.com/tweepy/tweepy.gitcd tweepy
+
+-->transloadit/uppy
+UppyUppy is (going to be) a cool JavaScript file uploader that fetches files for you from local disk, Google Drive, Dropbox, Instagram, remote URLs, cameras and other exciting locations, and then uploads them to wherever you want. Uppy is being developed by the Transloadit team because we want file uploading experience to be better — both for users and developers.Check out uppy.io for docs, API, examples and stats.Features (some in development)Lightweight / easy on dependenciesUsable as a bundle straight from a CDN as well as a module to importResumable file uploads via the open tus standardUppy speaks multiple languages (i18n support)Built with accessibility in mind
+
+-->joyent/containerpilot
+ContainerPilotAn application-centric micro-orchestrator that automates the process of service discovery, configuration, and lifecycle management inside the container, so you can focus on your apps.What is ContainerPilot?ContainerPilot is an application-centric micro-orchestrator that automates the process of service discovery, configuration, and lifecycle management inside the container.Orchestration is the automation of the operations of an application. Most application require operational tasks like connecting them to related components (WordPress needs to know where it's MySQL and Memcached servers are, for example), and some applications require special attention as they start up or shut down to be sure they bootstrap correctly or persist their data. We can do all that by hand, but modern applications automate those tasks in code. That's called "orchestration."To make this work, every application needs to do the following (at a minimum):Register itself in a service catalog (like Consul or Etcd) for use by other appsLook to the service catalog to find the apps it depends onConfigure itself when the container starts, and reconfigure itself over time
+
+-->ONLYOFFICE/DesktopEditors
+Oct 3, 2016-->matrix-org/synapse
+-->magnumripper/JohnTheRipper
+John the RipperThis is a community-enhanced, "jumbo" version of John the Ripper.It has a lot of code, documentation, and data contributed by theuser community.This is not "official" John the Ripper code.It isvery easy for new code to be added to jumbo: the quality requirementsare low.This means that you get a lot of functionality that is not
+
+-->kaitai-io/kaitai_struct
+Kaitai StructWhat is Kaitai Struct?Kaitai Struct is a declarative language used for describe variousbinary data structures, laid out in files or in memory: i.e. binaryfile formats, network stream packet formats, etc.The main idea is that a particular format is described in KaitaiStruct language only once and then can be compiled with a ksc intosource files in one of the supported programm languages. These moduleswill include a generated code for a parser that can read described
+
+-->hartator/wayback-machine-downloader
+Wayback Machine DownloaderDownload an entire website from the Internet Archive Wayback Machine.InstallationYou need to install Ruby on your system (>= 1.9.2) - if you don't already have it.Then run:gem install wayback_machine_downloaderTip: If you run into permission errors, you might have to add sudo in front of this command.Basic UsageRun wayback_machine_downloader with the base url of the website you want to retrieve as a parameter (e.g., http://example.com):
+
+-->haraka/Haraka
+ (#1661)Oct 11, 2016TODOadd HTTP supportApr 9, 2015appveyor.ymlrequire node.js 4+Nov 15, 2016attachment_stream.jsremove unused vars
+
+-->happypoulp/redux-tutorial
+ sentence structureDec 26, 2015package.jsonadd eslint to dev dependenciesJan 7, 2016-->leafo/moonscript
+MoonScriptMoonScript is a programmer friendly language that compiles intoLua. It gives you the power of the fastest scriptinglanguage combined with a rich set of features. It runs on Lua 5.1 and above,including alternative runtimes like LuaJIT.See http://moonscript.org.Online demo/compiler at http://moonscript.org/compiler.Running TestsTests are written in MoonScript and use Busted.
+
+-->haoel/leetcode
+New Problem Soluiton "Split Array Largest Sum"Nov 13, 2016-->NLPchina/ansj_seg
+Aug 3, 2016ansj_library.properties增加synonyms同义词词典功能，实现类似ambiguity歧义词词典Sep 22, 2016pom.xmlversion +0.0.1 增加同义词词林Oct 25, 2016pom_Maven.xmlup
+
+-->wang-bin/QtAV
+QtAVQtAV is a multimedia playback library based on Qt and FFmpeg. It can help you to write a playerwith less effort than ever before.QtAV has been added to FFmpeg projects page http://ffmpeg.org/projects.htmlQtAV is free software licensed under the term of LGPL v2.1. The player example is licensed under GPL v3.If you use QtAV or its constituent libraries,you must adhere to the terms of the license in question.Home pageFeatures
+
+-->haifengl/smile
+SmileSmile (Statistical Machine Intelligence and Learning Engine) isa fast and comprehensive machine learning system.With advanced data structures and algorithms,Smile delivers state-of-art performance.Smile covers every aspect of machine learning, including classification,regression, clustering, association rule mining, feature selection,manifold learning, multidimensional scaling, genetic algorithms,missing value imputation, efficient nearest neighbor search, etc.
+
+-->rstudio/bookdown
+bookdownA open-source (GPL-3) R package to facilitate writing books and long-form articles/reports with R Markdown. Features include:Generate printer-ready books and ebooks from R Markdown documentsA markup language easier to learn than LaTeX, and to write elements such as section headers, lists, quotes, figures, tables, and citationsMultiple choices of output formats: PDF, LaTeX, HTML, EPUB, and Word.Possibility of including dynamic graphics and interactive applications (HTML widgets and Shiny apps)Support for languages other than R, including C/C++, Python, and SQL, etc.LaTeX equations, theorems, and proofs work for all output formatsCan be published to GitHub, bookdown.org, and any web servers
+
+-->hadley/r4ds
+ (#468)Oct 12, 2016_bookdown.ymlAnother communicate re-orgAug 22, 2016_common.RTweak figures through out bookJul 18, 2016_output.yamlStrings tweaks
+
+-->ticki/termion
+TermionDocumentationExamplesChangelogTutorialTermion is a pure Rust, bindless library for low-level handling, manipulatingand reading information about terminals. This provides a full-featuredalternative to Termbox.Termion aims to be simple and yet expressive. It is bindless, meaning that it
+
+-->spotify/dh-virtualenv
+dh-virtualenvdh-virtualenv is a tool that aims to combine Debian packaging withself-contained virtualenv based Python deployments.The idea behind the dh-virtualenv is to be able to combine power ofDebian packaging with the sandboxed nature of virtualenvs. In additionto this, using virtualenv enables installing requirements viaPython Package Index instead of relying onthe operating system provided Python packages. The only limitingfactor is that you have to run the same Python interpreter as the
+
+-->mac-cain13/R.swift

@@ -1,0 +1,8 @@
+Trinea/android-common	 -- android
+square/android-times-square	 -- android
+snowdream/awesome-android	 -- android
+Trinea/android-open-project	 -- android
+PokeBotPub/PokeBot-Android	 -- android
+kaushikgopal/RxJava-Android-Samples	 -- android
+Kaopiz/android-segmented-control	 -- android
+owncloud/android	 -- android

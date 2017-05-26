@@ -1,0 +1,206 @@
+-->LibreVR/Revive
+Oct 5, 2016Revive.slnmain: Hook entitlement check IAT pointer.May 26, 2016revive.pngRevive: Add logos to repo.May 18, 2016revive_black.pngRevive: Add logos to repo.
+
+-->SpiderLabs/owasp-modsecurity-crs
+OWASP ModSecurity Core Rule Set (CRS)The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts.CRS ResourcesPlease see the OWASP ModSecurity Core Rule Set page to get introduced to the CRS and view resources on installation, configuration, and working with the CRS.Contributing to the CRSWe strive to make the OWASP ModSecurity CRS accessible to a wide audience of beginner and experienced users. We are interested in hearing any bug reports, false positive alert reports, evasions, usability issues, and suggestions for new detections.Create an issue on GitHub to report a false positive or false negative (evasion). Please include your installed version and the relevant portions of your ModSecurity audit log.Sign up for the mailing list to ask general usage questions and participate in discussions on the CRS.Join the #modsecurity channel on Freenode IRC to chat about the CRS.
+
+-->SpiderLabs/ModSecurity
+-->libjpeg-turbo/libjpeg-turbo
+: Fix typoSep 22, 2016acinclude.m4Build: Make the NASM autoconf variable persistentFeb 19, 2016appveyor.ymlFix AppVeyor build on non-master branchesOct 7, 2016bmp.cSilence pedantic GCC6 code formatting warnings
+
+-->mRemoteNG/mRemoteNG
+-->lepture/flask-oauthlib
+-->Leonidas-from-XIV/node-xml2js
+node-xml2jsEver had the urge to parse XML? And wanted to access the data in some sane,easy way? Don't want to compile a C parser, for whatever reason? Then xml2js iswhat you're looking for!DescriptionSimple XML to JavaScript object converter. It supports bi-directional conversion.Uses sax-js andxmlbuilder-js.Note: If you're looking for a full DOM parser, you probably want
+
+-->lennylxx/ipv6-hosts
+Jan 17, 2016hostshosts_updateSep 25, 2016hosts_laxRemove duplicated recordsNov 29, 2015merge_snippets.shChange date command to be compatible with Mac OS X
+
+-->leizongmin/js-xss
+Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.xss is a module used to filter input from users to prevent XSS attacks.(What is XSS attack?)Project Homepage: http://jsxss.comTry Online: http://jsxss.com/en/try.html中文版文档FeaturesSpecifies HTML tags and their attributes allowed with whitelistHandle any tags or attributes using custom function.
+
+-->nothings/stb
+stbsingle-file public domain libraries for C/C++librarylastest versioncategoryLoCdescriptionstb_vorbis.c1.09
+
+-->lede-project/source
+-->staltz/xstream
+docs(-->LeaVerou/markapp
+-->LeaVerou/awesomplete
+Awesompletehttp://leaverou.github.io/awesomplete/Awesomplete is an ultra lightweight, customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers.Basic UsageBefore you try anything, you need to include awesomplete.css and awesomplete.js in your page, via the usual tags:<link rel="stylesheet" href="awesomplete.css" /><script src="awesomplete.js" async></script>Then you can add an Awesomplete widget by adding the following input tag:<input class="awesomplete"
+
+-->python-visualization/folium
+-->SVGKit/SVGKit
+ownSVGKitSVGKit is a Cocoa framework for rendering SVG files natively: it's fast and powerful. Some additional info and links are on the wikiTwitterWe have a Twitter account http://twitter.com/SVGKit_freeyou can follow for release info, or tweet at for contact (any bugs, please report via the Issues page instead).Versions:Latest info at: https://github.com/SVGKit/SVGKit/wiki/Versionsv2.x = current "in development" branch with latest changes, fixes, featuresNB: this is now automatically selected in GitHub as the "default" branch when you visit SVGKit's project page
+
+-->Lasagne/Recipes
+Aug 31, 2015-->openai/improved-gan
+improved-gancode for the paper "Improved Techniques for Training GANs"MNIST, SVHN, CIFAR10 experiments in the mnist_svhn_cifar10 folderimagenet experiments in the imagenet folderContact GitHubAPITrainingShopBlog
+
+-->rinvex/repository
+Rinvex RepositoryRinvex Repository is a simple, intuitive, and smart implementation of Active Repository with extremely flexible & granular caching system for Laravel, used to abstract the data layer, making applications more flexible to maintain.Table Of ContentsFeaturesInstallationCompatibilityPrerequisitesRequire PackageInstall Dependencies
+
+-->ResearchKit/ResearchKit
+ResearchKit FrameworkThe ResearchKit™ framework is an open source software framework that makes it easy to create appsfor medical research or for other research projects.Getting StartedDocumentation:Programming GuideFramework ReferenceBest PracticesContributing to ResearchKit
+
+-->pret/pokered
+Pokémon Red and BlueThis is a disassembly of Pokémon Red and Blue.It builds the following roms:Pokemon Red (UE) [S][!].gbmd5: 3d45c1ee9abd5738df46d2bdda8b57dcPokemon Blue (UE) [S][!].gb md5: 50927e843568814f7ed45ec4f944bd8bTo set up the repository, see INSTALL.md.See alsoDisassembly of Pokémon Crystal
+
+-->thedevdojo/chatter
+Laravel Forum Package - ChatterInstallationQuick Note: If this is a new project, make sure to install the default user authentication provided with Laravel. php artisan make:authInclude the package in your projectcomposer require "devdojo/chatter=0.1.*"Add the service provider to your config/app.php providers array:DevDojo\Chatter\ChatterServiceProvider::class,Publish the Vendor Assets files by running:php artisan vendor:publish
+
+-->ongakuer/PhotoDraweeView
+PhotoDraweeViewPhotoView For FrescoGradledependencies {compile 'com.facebook.fresco:fresco:0.14.1'compile 'me.relex:photodraweeview:1.1.2'}UsagemPhotoDraweeView.setPhotoUri(Uri.parse("http://your.image.url"));
+
+-->takahirom/PreLollipopTransition
+PreLollipopTransitionSimple tool which help you to implement activity and fragment transition for pre-Lollipop devices.DownloadIn your app build.gradle adddependencies {compile 'com.kogitune:pre-lollipop-activity-transition:1.x.x'}CodeActivity
+
+-->survivejs/react
+SurviveJS - ReactIMPORTANT! If you want to support the development of this book, you can purchase a copy at Leanpub. There's also a paperback available through Amazon (older book covering both Webpack and React).This book shows you how to build a little Kanban application using React. During the process you will learn the basics and will be able to take the skills to your own projects. You can read the book online.How to Use This Repository?The repository has been split in two main parts: manuscript and project_source. You can find the freely available chapters under manuscript organized per chapter. project_source contains source associated to each chapter.There is no single right way to approach the book. It depends on your experience level and interest. You can build the project from scratch by following the book or you can start from a specific stage. Just pick the source from previous chapter as your starting point.Please note that the repository defaults to the dev branch of the book. master contains the source of the most recent version. Each version has been tagged so that it's easy for you to find the source matching to the version of the book you are reading.Getting SupportAs no book is perfect, you will likely come by issues and might have some questions related to the content. There are a couple of options to deal with this:
+
+-->RogueException/Discord.Net
+Discord.Net v0.9.6An unofficial .Net API Wrapper for the Discord client (http://discordapp.com).Check out the documentation or join the Discord API Chat.InstallationYou can download Discord.Net and its extensions from NuGet:Discord.NetDiscord.Net.CommandsDiscord.Net.ModulesDiscord.Net.Audio
+
+-->rkern/line_profiler
+-->pipelinedb/pipelinedb
+PipelineDBGetting startedIf you just want to get started with PipelineDB right away, head over to the download page and follow the simple installation instructions.If you'd like to build PipelineDB from source, keep reading!Building from sourceInstall some dependencies first:sudo apt-get install libreadline6 libreadline6-dev check g++ flex bison python-pip pkgconf zlib1g-dev python-dev libpq-dev libcurl4-openssl-dev expectsudo pip install -r src/test/py/requirements.txtNext you'll have to install ZeroMQ which PipelineDB uses for inter-process communication. Here's a gist with instructions to build and install ZeroMQ 4.1.5 from source.
+
+-->supergiant/supergiant
+SUPERGIANT: Easy container orchestration using KubernetesSupergiant is an open-source container orchestration system that lets developerseasily deploy and manage apps as Docker containers using Kubernetes.We want to make Supergiant the easiest way to run Kubernetes in the cloud.Quick start...How to Install Supergiant Container Orchestration Engine on AWS EC2Deploy a MongoDB Replica Set with Docker and Supergiant(Note: this tutorial is out of date, but you can seethe current example here.)
+
+-->sorintlab/stolon
+stolon - PostgreSQL cloud native HA replication managerstolon is a cloud native PostgreSQL manager for PostgreSQL high availability. It's cloud native because it'll let you keep an high available PostgreSQL inside your containers (kubernetes integration) but also on every other kind of infrastructure (cloud IaaS, old style infrastructures etc...)For an introduction to stolon you can also take a look at this postNote: The current master branch that will lead to v0.5.0 is receiving a big refactor needed to implement a lot of new features (see the v0.5.0 roadmap). So some breakage is expected.FeaturesLeverages PostgreSQL streaming replication.Resilient to any kind of partitioning. While trying to keep the maximum availability, it prefers consistency over availability.kubernetes integration letting you achieve postgreSQL high availability.Uses a cluster store like etcd or consul as an high available data store and for leader election
+
+-->kss-node/kss-node
+Note: This README is for the master branch of this project. To see the README for the latest stable release see https://www.npmjs.com/package/kss.kss-nodeThis is a Node.js implementation of Knyle Style Sheets (KSS), "a documentation syntax for CSS" that's intended to have syntax readable by humans and machines. Hence, the kss-node software can be used to create a "living style guide".Write human-readable documentation using "KSS syntax" comments.Have the kss tool automatically build a style guide from your stylesheets.Here's an example KSS comment:// Button//// Your standard button suitable for clicking.
+
+-->marketplacer/Cosmos
+Cosmos, a star rating control for iOS and tvOSThis is a UI control for iOS and tvOS written in Swift. It shows a star rating and takes rating input from the user. Cosmos is a subclass of a UIView that will allow your users post those inescapable 1-star reviews!Shows star rating with an optional text label.Can be used as a rating input control (iOS only).Cosmos view can be customized in the Storyboard without writing code.Includes different star filling modes: full, half-filled and precise.Cosmos is accessible and works with voice-over.Picture of binary star system of Sirius A and Sirius B by NASA, ESA and G. Bacon (STScI). Source: spacetelescope.org.Setup (Swift 3.0 / Xcode 8)
+
+-->kriasoft/aspnet-starter-kit
+Fix Travis configuration (#20)Sep 1, 2016global.jsonUpdate SDK version in global.jsonJun 27, 2016jsconfig.jsonAdd build folder to exclusion list in jsconfig.jsonJun 15, 2016package.json
+
+-->krasimir/webpack-library-starter
+Webpack library starterWebpack based boilerplate for producing libraries (Input: ES6, Output: universal library)FeaturesWebpack based.ES6 as a source.Exports in a umd format so your library works everywhere.ES6 test setup with Mocha and Chai.Linting with ESLint.Process
+
+-->kpumuk/meta-tags
+MetaTags: a gem to make your Rails application SEO-friendlySearch Engine Optimization (SEO) plugin for Ruby on Rails applications.Ruby on RailsMetaTags master branch now fully supports Rails 3.2+, and is tested against allmajor Rails releases up to 5.0.1.Ruby versions older than 2.0.0 are no longer officially supported.InstallationAdd the "meta-tags" gem to your Gemfile.gem 'meta-tags'
+
+-->ryanrhymes/owl
+Owl - An OCaml Numerical LibraryOwl is an OCaml numerical library. It supports both dense and sparse matrix operations, linear algebra, regressions, and many advanced mathematical and statistical functions (such as Markov chain Monte Carlo methods).The full API documentation is here: Owl ManualThe series of tutorials is here: How to Plot in Owl, Manipulate Matrices in OwlEmail Me or message me on:Twitter,Google+,Facebook,Blogger,
+
+-->koding/kite
+Kite Micro-Service FrameworkKite is a framework for developing micro-services in Go.Kite is both the name of the framework and the micro-service that is written byusing this framework.Basically, Kite is a RPC server as well as a client. Itconnects to other kites and peers to communicate with each other. They candiscover other kites using a service called Kontrol, and communicate with thembidirectionaly. The communication protocol uses a WebSocket (or XHR) as transportin order to allow web applications to connect directly to kites.
+
+-->RSS-Bridge/rss-bridge
+Nov 6, 2016UNLICENSElet's unlicense !May 21, 2014index.php[index] Add check for 'allow_url_fopen'Nov 5, 2016phpcs.xml[phpcs] Remove check for Zend OperatorSpacing
+
+-->knightliao/disconf
+DisconfDistributed Configuration Management Platform(分布式配置管理平台)专注于各种「分布式系统配置管理」的「通用组件」和「通用平台」, 提供统一的「配置管理服务」包括 百度、滴滴出行、银联、网易、拉勾网、苏宁易购、顺丰科技 等知名互联网公司正在使用!「disconf」在「2015 年度新增开源软件排名 TOP 100(OSC开源中国提供)」中排名第16强。主要目标：部署极其简单：同一个上线包，无须改动配置，即可在 多个环境中(RD/QA/PRODUCTION) 上线部署动态化：更改配置，无需重新打包或重启，即可 实时生效统一管理：提供web平台，统一管理 多个环境(RD/QA/PRODUCTION)、多个产品 的所有配置
+
+-->Uberi/speech_recognition
+-->kishikawakatsumi/UICKeyChainStore
+UICKeyChainStoreUICKeyChainStore is a simple wrapper for Keychain that works on iOS and OS X. Makes using Keychain APIs as easy as NSUserDefaults.Looking for the library written in Swift?Try KeychainAccess.KeychainAccess is next generation of UICKeyChainStore.Transitioning from 1.x to 2.0synchronize method is deprecated. Calling this method is no longer required (Just ignored).FeaturesSimple interface
+
+-->Kinto/kinto
+-->kilimchoi/engineering-blogs
+Software Engineering BlogsCompanies#ABCDEF
+
+-->wireapp/wire-ios
+Oct 5, 2016THIRD-PARTY-NOTICES.txtInitial commitJul 22, 2016avs-versionsBump open source AVS versionNov 18, 2016setup.shRemove version error in setup.sh when using xcode8 (#234)
+
+-->Thomvis/BrightFutures
+BrightFuturesHow do you leverage the power of Swift to write great asynchronous code? BrightFutures is our answer.BrightFutures implements proven functional concepts in Swift to provide a powerful alternative to completion blocks and support typesafe error handling in asynchronous code.The goal of BrightFutures is to be the idiomatic Swift implementation of futures and promises.Our Big Hairy Audacious Goal (BHAG) is to be copy-pasted into the Swift standard library.The stability of BrightFutures has been proven through extensive use in production. It is currently being used in several apps, with a combined total of almost 500k monthly active users. If you use BrightFutures in production, we'd love to hear about it!Latest newsBrightFutures 5.0 is now available! This update adds Swift 3 compatibility and contains breaking changes that are in line with the syntax changes between Swift 2 and 3. Please check the Migration guide for help on how to migrate your project to BrightFutures 5.0.There are plans beyond 5.0 to do a more thorough rewrite in which the approach on error handling will be reevaluated and the Swift 3 API naming guidelines are better applied.
+
+-->ninenines/cowboy
+-->twosigma/beaker-notebook
+Beaker - the data scientist's laboratoryBeaker is a code notebook that allows you to analyze, visualize, and document data using multiple programming languages. Beaker's plugin-based polyglot architecture enables you to seamlessly switch between languages in your documents and add support for your favorite languages that we've missed.Beaker is both a server that you can run in the cloud, an application that you can download and run, anda Docker container that you can run anywhere.This page is for developers.If you want to use or learn more about Beaker, see the home page.ScreenshotsPublication ServerNotebooks can published and converted into web pages that anyone can access with an ordinary web browser, even on a mobile device.
+
+-->walkor/phpsocket.io
+Update -->superscriptjs/superscript
+-->openwrt/packages
+Jul 10, 2015-->kewlbear/FFmpeg-iOS-build-script
+FFmpeg iOS build scriptThis is a shell script to build FFmpeg libraries for iOS and tvOS apps.Tested with:FFmpeg 3.2Xcode 8Requirementshttps://github.com/libav/gas-preprocessoryasm 1.2.0Usage
+
+-->tananaev/traccar
+TraccarOverviewTraccar is open source server for various GPS tracking devices. Project is written in Java and works on most platforms with installed Java Runtime Environment.BuildPlease read build from source documentation on the official website.TeamAnton Tananaev (anton@traccar.org)Andrey Kunitsyn (andrey@traccar.org)License
+
+-->zant95/elementary-dropbox
+Dropbox for Elementary OSThis script, designed for Elementary OS, installs the latest version of Dropbox and integrates it with WingPanel.InstallationBefore you installYou need to install git and uninstall any previous version of Dropbox on your system (Software Center, apt-get...).Installgit clone https://github.com/zant95/elementary-dropbox /tmp/elementary-dropboxbash /tmp/elementary-dropbox/install.shUninstall
+
+-->kelektiv/node.bcrypt.js
+node.bcrypt.jsLib to help you hash passwords.bcrypt on wikipediaCatalyst for this module: How To Safely Store A PasswordIf You Are Submitting Bugs/IssuesFirst, make sure that the version of node you are using is a stable version. You'll know this because it'll have an even major release number. We do not currently support unstable versions and while the module may happen to work on some unstable versions you'll find that we quickly close issues if you're not using a stable version.If you are on a stable version of node, we can't magically know what you are doing to expose an issue, it is best if you provide a snippet of code or log files if you're having an install issue. This snippet need not include your secret sauce, but it must replicate the issue you are describing. The issues that get closed without resolution tend to be the ones that don't help us help you. Thanks.Version CompatibilityNode Version
+
+-->keen/dashboards
+Dashboards by Keen IOBuilding an analytics dashboard? Don’t start from scratch. Grab one of our Bootstrap-based templates and admire your data in minutes.Begin with a layout:Add charts to each chart-stage HTML element:<div class="col-sm-6 col-md-3"><div class="chart-wrapper"><div class="chart-title">Chart Title</div>
+
+-->kaushikgopal/RxJava-Android-Samples
+Learning RxJava for Android by exampleThis is a repository with real-world useful examples of using RxJava with Android. It usually will be in a constant state of "Work in Progress" (WIP).I also gave a talk at a local meetup about warming up to RxJava here. Here's a link to the video and slides.Examples:Concurrency using schedulersA common requirement is to offload lengthy heavy I/O intensive operations to a background thread (non-UI thread) and feed the results back to the UI/main thread, on completion. This is a demo of how long-running operations can be offloaded to a background thread. After the operation is done, we resume back on the main thread. All using RxJava! Think of this as a replacement to AsyncTasks.The long operation is simulated by a blocking Thread.sleep call (since this is done in a background thread, our UI is never interrupted).To really see this example shine. Hit the button multiple times and see how the button click (which is a UI operation) is never blocked because the long operation only runs in the background.Accumulate calls (buffer)
+
+-->smallnest/go-web-framework-benchmark
+go-web-framework-benchmarkThis benchmark suite aims to compare the performance of Go web frameworks. It is inspired by Go HTTP Router Benchmark but this benchmark suite is different with that. Go HTTP Router Benchmark suit aims to compare the performance of routers but this Benchmark suit aims to compare whole HTTP request processing.Last Test Updated: 2016-11-08test environmentCPU:Intel(R) Xeon(R) CPU E5-2620 0 @ 2.00GHz, 24 coresMemory:16GGo:
+
+-->Ranks/emojify.js
+Nov 10, 2014LICENSE.mdAdded LICENSE.md, updated -->plouc/mozaik
+Mozaïk is a tool based on nodejs / react / reflux / d3 / stylus to easily craft beautiful dashboards. See demoFeatures:Scalable layoutThemes supportExtendable by modulesGrid positioningOptimized backend communicationRotation support (with smooth transition)Getting started
+
+-->parnurzeal/gorequest
+GoRequestGoRequest -- Simplified HTTP client ( inspired by famous SuperAgent lib in Node.js )"Shooting Requests like a Machine Gun" - GopherSending request would never been fun and easier than this. It comes with lots of feature:Get/Post/Put/Head/Delete/Patch/OptionsSet - simple header settingJSON - made it simple with JSON string as a parameterMultipart-Support - send data and files as multipart requestProxy - sending request via proxy
+
+-->v0dro/daru
+daru - Data Analysis in RUbyIntroductiondaru (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualization of data in Ruby.daru makes it easy and intuitive to process data predominantly through 2 data structures: Daru::DataFrame and Daru::Vector. Written in pure Ruby works with all ruby implementations. Tested with MRI 2.0, 2.1, 2.2 and 2.3.FeaturesData structures:Vector - A basic 1-D vector.DataFrame - A 2-D spreadsheet-like structure for manipulating and storing data sets. This is daru's primary data structure.Compatible with IRuby notebook, statsample, statsample-glm and statsample-timeseries.
+
+-->karafka/karafka
+KarafkaFramework used to simplify Apache Kafka based Ruby applications development.It allows programmers to use approach similar to "the Rails way" when working with asynchronous Kafka messages.Karafka not only handles incoming messages but also provides tools for building complex data-flow applications that receive and send messages.Table of ContentsTable of ContentsSupportRequirementsHow does it work
+
+-->Kaopiz/android-segmented-control
+Update -->santigarcor/laratrust
+Laratrust (Laravel 5 Package)Laratrust is a succinct and flexible way to add Role-based Permissions to Laravel 5.NoteThis is a fork of Zizaco's original code; thanks go to him for getting this thing started!Please note that this fork is not used on Zizaco's page at this time, nor is it maintained or contributed to by him.Installation, Configuration and UsageTo install, configure and learn how to use laratrust please go to the Documentation.Laratrust now supports a groups implementation where roles can be attached to users within a group. It has not been released yet, but if you want to try it out that feature, please go to the dev-master version right here.Contact GitHub
+
+-->sword-org/wechat4j
+Mar 28, 2016-->mrworf/plexupdate
+plexupdatePlex Update is a BASH script which simplifies the life of headless Linux Plex Media Server users (how's that for a strange description).This tool will automatically download the latest version for linux (Using plexpass or public version) and if you kindly ask, also install it for you.InstallationIt's fairly easy, but let's take it step by step (if it seems too much, skip to the end for a short version)1. Getting the codeUsing wget and unzipDownload it as a zip file and unzip it on your server.wget https://github.com/mrworf/plexupdate/archive/master.zip && unzip master.zip && mv plexupdate-master plexupdate && rm master.zip
+
+-->kanaka/mal
+mal - Make a LispDescriptionMal is a Clojure inspired Lisp interpreter.Mal is implemented in 62 languages:AdaGNU awkBash shellBASIC (C64 and QBasic)C
+
+-->pogodevorg/pgoapi
+pgoapi - a pokemon go api lib in pythonpgoapi is a client/api/demo for Pokemon Go by https://github.com/tejado.It allows automatic parsing of requests/responses by finding the correct protobuf objects over a naming convention and will return the response in a parsed python dictionary format.This is unofficial - USE AT YOUR OWN RISK !I don't play pokemon go !No bot/farming code included !Feature SupportPython 2 and 3Google/PTC auth
+
+-->muaz-khan/RecordRTC
+RecordRTC: WebRTC audio/video recordingRecordRTC Documentation / RecordRTC Wiki Pages / RecordRTC Demo / WebRTC ExperimentsRecordRTC is a JavaScript-based media-recording library for modern web-browsers (supporting WebRTC getUserMedia API). It is optimized for different devices and browsers to bring all client-side (pluginfree) recording solutions in single place.Check all releases:https://github.com/muaz-khan/RecordRTC/releasesPlease check dev directory for development files.RecordRTC API ReferenceMRecordRTC API ReferenceMediaStreamRecorder API Reference
+
+-->megous/megatools
+-->videojs/videojs-contrib-hls
+video.js HLS Source HandlerPlay back HLS with video.js, even where it's not natively supported.Lead Maintainer: Jon-Carlos Rivera @imbcmdthMaintenance Status: StableTable of Contents generated with DocTocInstallationNPMCDNReleases
+
+-->jwasham/practice-python
+Practice PythonPart of my daily plan for studying Python.ImportantThis code may be terrible and buggy. Use at your own risk.Contact GitHubAPITrainingShopBlog
+
+-->JustArchi/ArchiSteamFarm
+ArchiSteamFarmASF is a C# application that allows you to farm steam cards using multiple steam accounts simultaneously. Unlike Idle Master which works only for one account at given time, requires steam client running in background, and launches additional processes imitiating "game playing" status, ASF doesn't require any steam client running in the background, doesn't launch any additional processes and is made to handle unlimited steam accounts at once. In addition to that, it's meant to be run on servers or other desktop-less machines, and features full Mono support, which makes it possible to launch on any Mono-supported operating system, such as Windows, Linux or OS X. ASF is based on, and possible, thanks to SteamKit2.ASF doesn't require and doesn't interfere in any way with Steam client. In addition to that, it no longer requires exclusive access to given account, which means that you can use your main account in Steam client, and use ASF for farming the same account at the same time. If you decide to launch a game, ASF will get disconnected, and resume farming once you finish playing your game, being as transparent as possible.Core featuresAutomatic farming of available games with card drops using any number of active accountsNo requirement of running or even having official Steam client installedGuarantee of being VAC-freeComplex error-reporting mechanism, allowing ASF to be smart and resume farming even in case of Steam or networking problemsCustomizable cards farming algorithm which will push performance of cards farming to the maximum
+
+-->theturtle32/WebSocket-Node
+WebSocket Client & Server Implementation for NodeOverviewThis is a (mostly) pure JavaScript implementation of the WebSocket protocol versions 8 and 13 for Node.There are some example client and server applications that implement various interoperability testing protocols in the "test/scripts" folder.For a WebSocket client written in ActionScript 3, see my AS3WebScocket project.DocumentationYou can read the full API documentation in the docs folder.ChangelogCurrent Version: 1.0.23 — Released 2016-05-18
+
+-->ThePhD/sol2
+Sol 2.15Sol is a C++ library binding to Lua. It currently supports all Lua versions 5.1+ (LuaJIT 2.x included). Sol aims to be easy to use and easy to add to a project.The library is header-only for easy integration with projects.DocumentationFind it here. A run-through kind of tutorial is here! The API documentation goes over most cases (particularly, the "api/usertype" and "api/proxy" and "api/function" sections) that should still get you off your feet and going, and there's an examples directory here as well.Sneak Peek#include <sol.hpp>#include <cassert>int main() {
+
+-->syoyo/tinyobjloader
+tinyobjloaderhttp://syoyo.github.io/tinyobjloader/Tiny but powerful single file wavefront obj loader written in C++. No dependency except for C++ STL. It can parse 10M over polygons with moderate memory and time.tinyobjloader is good for embedding .obj loader to your (global illumination) renderer ;-)If you are looking for C89 version, please see https://github.com/syoyo/tinyobjloader-c .Notice!We have released new version v1.0.0 on 20 Aug, 2016.Old version is available v0.9.x branch https://github.com/syoyo/tinyobjloader/tree/v0.9.xWhat's new
+
+-->Mottie/Keyboard
+A jQuery on-screen keyboard (OSK) plugin that works in the browser. Originally posted by Jeremy Satterfield in his blog, jQuery plugins and on Snipplr. Currently maintained by Mottie.Features (Demo)Ease of useAn on-screen virtual keyboard embedded within the browser window which will popup when a specified entry field is focused.The user can then type and preview their input before Accepting or Canceling.It can be set to always remain open, and to not use a preview.Ease of installationGrab the files as a zip, or from npm or bower - see the installation section below.In a minimal setup, the keyboard works by including:
+
+-->juliocesarfort/public-pentesting-reports
+Public penetration testing reportsCurated list of public penetration test reports released by several consulting firms and academic security groups.Contact GitHubAPITrainingShopBlogAbout© 2016 GitHub, Inc.
+
+-->JulianNorton/weather-10kb
+http://wxkb.io/Weather forecast in under 10kb (excluding favicons) without any client side javascript.Run wxkb.io locallyInstall node.jsif you have homebrew, brew install nodeclone repo via terminal: git clone https://github.com/JulianNorton/weather-10kb.gitcd into the weather-10kb folder: cd weather-10kbinstall required packages: npm installSign up for a dark sky API key
+
+-->StevenBlack/hosts
+-->mintty/wsltty
+Mintty as a terminal for Bash on Ubuntu on Windows / WSL.OverviewRun the installer to installwsltty package components (see below) in the user’s application folder (where WSL is also installed)an empty wsltty “home directory” to enable storage of a mintty config fileStart Menu and Desktop shortcuts to start a WSL bash (with some variations, see below)optional context menu entries for Windows Explorer to start a WSL bash in the respective folderinstall/uninstall context menu items from Start Menu subfolderwsl*.bat scripts to invoke wsltty manually (with some variations and invocation options, see below)
+
+-->mintty/mintty
+Mintty is the Cygwin Terminal emulator,also available for MSYSand Msys2.OverviewFor an introduction, see the Mintty homepage,also linking to the Wikiand the manual page.Bugs and EnhancementsPlease report bugs or suggest enhancements via the issue tracker.
+

@@ -1,0 +1,268 @@
+-->spite/WebVR-Extension
+Sep 13, 2016TransformControls.jsFixed TransformControls' OrthographicCamera handling.Sep 12, 2016background.jsadded activate/deactivateSep 14, 2016common.jsadded verbose flag
+
+-->node-ffi/node-ffi
+node-ffiNode.js Foreign Function Interfacenode-ffi is a Node.js addon for loading and calling dynamic libraries usingpure JavaScript. It can be used to create bindings to native libraries withoutwriting any C++ code.It also simplifies the augmentation of node.js with C code as it takes care ofhandling the translation of types across JavaScript and C, which can add reamsof boilerplate code to your otherwise simple C. See the example/factorialfor an example of this use case.
+
+-->tryswift/trySwiftNYC
+trySwiftApptry! Swift Conference App2016 presentationsYou can find an overview of speakers and their presentations, including slides and video here. If you see slides or videos get posted, please create a pull request to add these, or let us know by filing an issue.ContributingCheck out the issues and see how you can help out.Contact GitHubAPITraining
+
+-->Mooophy/Cpp-Primer
+added link for ch19Mar 6, 2016-->scala-exercises/scala-exercises
+Scala ExercisesHow it works"Scala Exercises" brings exercises for the Stdlib, Cats, Shapeless and many other great libraries for Scala to your browser. Offering hundreds of solvable exercises organized into several categories covering the basics of the Scala language and it's most important libraries.LEARN: Each category includes an explanation of the basics. Learn the concepts through simple code samples.SOLVE: Each exercise is a unit test that must pass successfully, complete the exercise by filling in the blanks. Receive instant feedback as your answers are validated in real-time.SHARE: The system will consider the category complete when all its exercises are successfully done. Don't forget to share your progress on social networks before moving on to the next category!EDIT: After completing a category, you'll be able to go back and edit it. Add new exercises or improve existing ones by sending a pull-request.Getting StartedOnline
+
+-->yeasy/docker_practice
+Docker — 从入门到实践0.7.3Docker 是个划时代的开源项目，它彻底释放了虚拟化的威力，极大提高了应用的运行效率，降低了云计算资源供应的成本，同时让应用的部署、测试和分发都变得前所未有的高效和轻松！无论是应用开发者，运维人员，还是云计算从业人员，都有必要认识和掌握 Docker，以在有限的时间内做更多有意义的事。本书既适用于具备基础 Linux 知识的 Docker 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在进行实际部署时借鉴。前六章为基础内容，供用户理解 Docker 的基本概念和操作；7 ~ 9 章介绍一些高级操作；第 10 章给出典型的应用场景和实践案例；11 ~ 13 章介绍关于 Docker 实现的相关细节技术。后续章节则分别介绍一些相关的热门开源项目。在线阅读：GitBook 或 Github。pdf 版本 下载epub 版本 下载欢迎关注 DockerPool 社区微博 @dockerpool，或加入 Docker 技术交流 QQ 群或微信组，分享 Docker 资源，交流 Docker 技术。
+
+-->mobolic/facebook-sdk
+-->mkoehnke/WKZombie
+WKZombieWKZombie is an iOS/OSX web-browser without a graphical user interface. It was developed as an experiment in order to familiarize myself with using functional concepts written in Swift 3 (Swift 2.2 for versions < 1.0).It incorporates WebKit (WKWebView) for rendering and hpple (libxml2) for parsing the HTML content. In addition, it can take snapshots and has rudimentary support for parsing/decoding JSON elements. Chaining asynchronous actions makes the code compact and easy to use.Use CasesThere are many use cases for a Headless Browser. Some of them are:Collect data without an APIScraping websitesAutomating interaction of websitesManipulation of websites
+
+-->openMVG/openMVG
+OpenMVG (open Multiple View Geometry)IntroductionOpenMVG (Multiple View Geometry) "open Multiple View Geometry" is a library for computer-vision scientists and especially targeted to the Multiple View Geometry community. It is designed to provide an easy access to the classical problem solvers in Multiple View Geometry and solve them accurately.The openMVG credo is: "Keep it simple, keep it maintainable". OpenMVG targets readable code that is easy to use and modify by the community.All the features and modules are unit tested. This test driven development ensures that the code works as it should and enables more consistent repeatability. Furthermore, it makes it easier for the user to understand and learn the given features.BuildingSee BUILD text fileContinuous integration:linux 64 bits/GCC (Build + tests):
+
+-->processone/tsung
+Tsung READMEIntroductionThis document gives pointers for information on this package which isdistributed under the GNU General Public License version 2 (see fileCOPYING).What This Package IsTsung is multi-protocol distributed load testing tool.It can be used to test the scalability and performances of IP basedclient/server applications (supported protocols: HTTP, WebDAV, SOAP,
+
+-->Miserlou/lambda-packages
+lambda-packagesVarious popular libraries, pre-compiled to be compatible with AWS Lambda.Currently includes support for:bcryptcfficryptographyLXMLMySQL-Pythonnumpy
+
+-->Vazkii/BotaniaV2
+-->Minds/minds
+MindsIntroductionAn open-source, encrypted and reward-based social networking platform. https://minds.com | https://minds.orgSecurity reportsPlease report all security issues to security@minds.com.LicenseAGPLv3. Please see the license file of each repository.RepositoriesMinds is split into multiple components:
+
+-->unity3d-jp/AssetGraph
+AssetBundleGraphToolAssetBundleGraphTool is a visual toolset lets you configure and create Unity's AssetBundles. It is intended to create rule-based configuration in visual form to create and manage efficient workflow around AssetBundle generation.Quick Q&AUsage1.Add NodesRight click AssetBundleGraphTool canvas gives you list of nodes you can create. Select one of them and create nodes. To start, create Loader node to identify which assets should go into AssetBundles.2.Connect ThemWhen you create more than two nodes, let's connect them. Simply click the dot on created node, drag and drop to the dot of other node you wish to connect, then you will have link.AssetBundleGraphTool gives you live update preview of asset list that will be passed through the link. By clicking link you will see the full list of assets.
+
+-->mila-udem/fuel
+-->mila-udem/blocks
+-->Microsoft/WinObjC
+Download the latest pre-built Windows Bridge for iOS SDK here.Note on installing the bridge: We use Git LFS to handle the large binaries included in the bridge. This does not affect using the prebuilt releases found on our releases page. If you build the bridge from source, please see the instructions found on our Building From Source wiki page.Do not use the Download ZIP option via the "Clone or download" button above. You will not be able to build the bridge using the resulting .zip file. See "I'm getting errors after downloading the bridge through the "Download ZIP" button on Github. What should I do?" for more information.Welcome to the Windows Bridge for iOS project previewThe Windows Bridge for iOS (also referred to as WinObjC) is a Microsoft open-source project that provides an Objective-C development environment for Visual Studio and support for iOS APIs. The bridge allows you to create Universal Windows Platform (UWP) apps that will run on many Windows devices using iOS APIs and Objective-C code alongside Windows 10 features like Cortana and Live Tiles.Where to get the bridgeDownload the latest pre-built Windows Bridge for iOS SDK here.ResourcesThe following sections will help you get started. For more information, check out:
+
+-->zhongsp/TypeScript
+TypeScriptTypeScript 2.0 正式发布!TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript. http://www.typescriptlang.org请阅读 📖 TypeScript Handbook 中文版 - Published with GitBook目录快速上手ASP.NET CoreASP.NET 4Gulp
+
+-->tui2tone/flat-admin-bootstrap-templates
+Flat Admin V.3Free Flat Design Administrator Bootstrap TemplatesCompletely free bootstrap administrator templates with Bootstrap 3.Responsive admin templates for all devices.AngularJS and Static Html VersionA lot of UI Kits with BootstrapBootstrap ElementsPricing TableChartist
+
+-->sohutv/cachecloud
+Update -->red/red
+Red Programming LanguageRed is a new programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting, while providing modern support for concurrency and multi-core CPUs.Red has its own complete cross-platform toolchain, featuring two compilers, an interpreter and a linker, not depending on any third-party library, except for a Rebol2 interpreter, required during the bootstrap phase. Once complete, Red will be self-hosted.The Red software stack also contains another language, Red/System, which is a low-level dialect of Red. It is a limited C-level language with a Red look'n feel, required to build Red's runtime library and be the target language of Red's compiler. More information at red-lang.org.Making a Red "Hello World"The Red toolchain comes as a single one-megabyte executable file that you can download from here for the big-3 platforms.Put the downloaded red binary in the working folder.In a code or text editor, write the following Hello World program:Red [
+
+-->pornel/pngquant
+pngquant 2pngquant converts 24/32-bit RGBA PNGs to 8-bit palette with alpha channel preserved.Such images are fully standards-compliant and are supported by all web browsers.Quantized files are often 60-80% smaller than their 24/32-bit versions.This utility works on Linux, Mac OS X and Windows. This is the official pngquant repository.Usagebatch conversion of multiple files: pngquant *.pngUnix-style stdin/stdout chaining: … | pngquant - | …To further reduce file size, try optipng, ImageOptim, or zopflipng.
+
+-->mozilla/firefox-ios
+Updated -->minbrowser/min
+MinMin is a smarter, faster web browser. It includes features such as:Information from DuckDuckGo in the searchbar.Built-in ad and tracker blockingFuzzy searchFull-text search for bookmarksReading listTabs improvements (tabs open to the right, and fade out when inactive).More information, and prebuilt binaries, are available here.
+
+-->Microsoft/WindowsUIDevLabs
+Windows UI Dev LabsWelcome to the Windows UI Dev Labs repository for the latest code samples, demos, and developer feedback for building beautiful and engaging Universal Windows Platform apps using Windows UI.The code samples and demos are targeted for developers who are interested in experimenting, building, and providing feedback on the latest flighting Windows UI APIs.We are focused on creating a place where we can experiment, inpsire, and receive developer feedback on:Flighting APIs for Windows UITesting out new UX patternsEarly reference implementations and prototypesInspiring demonstrations of the Windows UI APIIf you are a developer getting familiar with the Windows.UI.Xaml and Windows.UI.Composition APIs, want to build beautiful UI experiences, and don't mind a few bugs here and there; then, this is the place for you.
+
+-->pencilblue/pencilblue
+PencilBlueA full featured Node.js CMS and blogging platform (plugins, server cluster management, data-driven pages)First and foremost:If at any point you have questions, comments or concerns you can find us hanging out on twitter @getpencilblue and on our subreddit.We're always happy to help and pull requests (plugin or core) are always welcome.To learn how to build websites with PencilBlue, read our tutorials.The first open source content management system to meet all the needs of a modern website:Full blogging capabilities, out of the boxRelational data creation and management, through the admin interface
+
+-->sindresorhus/meow
+-->Reactive-Extensions/RxCpp
+The Reactive Extensions for Native (RxCpp) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators in C++.PlatformStatusWindowsLinux & OSXSourceBadgesGithubGitter.im
+
+-->ncsoft/Unreal.js
+Update -->pgbovine/OnlinePythonTutor
+Jun 9, 2016history.txtdeploy v5-unity/ online!Jul 27, 2016-->modesttree/Zenject
+Dependency Injection Framework for Unity3DIf you are looking for the older documentation for Zenject 3.X click here.Many hours have gone into the creation of this framework and many more will go to continue maintaining it.If you or your team have found it useful, consider buying me a coffee!Every donation makes me significantly more likely to find time for it.Also, if you like Zenject, you may also be interested in Projeny (our other open source project)IntroductionZenject is a lightweight dependency injection framework built specifically to target Unity 3D (however it can be used outside of Unity as well).It can be used to turn your application into a collection of loosely-coupled parts with highly segmented responsibilities.
+
+-->Microsoft/Git-Credential-Manager-for-Windows
+Git Credential Manager for WindowsThe Git Credential Manager for Windows (GCM) provides secure Git credential storage for Windows. It's the successor to the Windows Credential Store for Git (git-credential-winstore), which is no longer maintained. Compared to Git's built-in credential storage for Windows (wincred), which provides single-factor authentication support working on any HTTP enabled Git repository, GCM provides multi-factor authentication support for Visual Studio Team Services, Team Foundation Server, and GitHub.This project includes:Secure password storage in the Windows Credential StoreMulti-factor authentication support for Visual Studio Team ServicesTwo-factor authentication support for GitHubPersonal Access Token generation and usage support for Visual Studio Team Services and GitHubNon-interactive mode support for Visual Studio Team Services backed by Azure DirectoryKerberos authentication for Team Foundation Server (see notes)
+
+-->MicrosoftDX/Vorlonjs
+May 9, 2016azuredeploy-parameters.jsonAdd Azure deploy files and update Readme to add buttonJul 6, 2015azuredeploy.jsonfix dependencies order in azuredeploy.jsonFeb 26, 2016build-docker-image.shadd logging & comments in the bash script that builds docker image
+
+-->premake/premake-core
+PREMAKE 5 (core)Premake is a command line utility which reads a scripted definition of a software project and, most commonly, uses it to generate project files for toolsets like Visual Studio, Xcode, or GNU Make. Built-in and Third-Party Modules add support for even more toolsets.Find out in detail what Premake is and how to use it in the wiki.Get startedDownload PremakeRead the wiki to find out how to get your project up and running with Premake.News and CommunityCheck the official Github project for the latest developmentsFor questions about using Premake and authoring project scripts, please ask on StackOverflow, adding the #premake tag to your question.
+
+-->Microsoft/BotBuilder-Samples
+'s for AppInsights sampleNov 14, 2016NodeUpdating -->Microsoft/bond
+BondBond is an open source, cross-platform framework for working with schematizeddata. It supports cross-language serialization/deserialization and powerfulgeneric mechanisms for efficiently manipulating data. Bond is broadly used atMicrosoft in high scale services.We are also introducing theBond Communications framework--knownas Bond Comm--which allows for remote process communication. Currently, weare making the C# version of this framework available; the C++ version will
+
+-->michaelliao/learn-javascript
+learn-javascriptJavaScript全栈教程参考源码Contact GitHubAPITrainingShopBlogAbout© 2016 GitHub, Inc.
+
+-->thelgevold/angular-2-samples
+-->Platformus/Platformus
+Platformus 1.0.0-alpha11IntroductionPlatformus is free, open source and cross-platform CMS based on ASP.NET Core andExtCore framework. It is built using the best and the mostmodern tools and languages (Visual Studio 2015, C#, TypeScript, SCSS etc). Join our team!Few Facts About PlatformusIt is free and open source.It runs on Windows, Mac and Linux.It is completely modular and extendable. Using the features of the underlying
+
+-->mevdschee/php-crud-api
+PHP-CRUD-APISingle file PHP script that adds a REST API to a MySQL 5.6 InnoDB database. PostgreSQL 9 and MS SQL Server 2012 are fully supported. There is even limited support for SQLite 3.Related projects:PHP-API-AUTH: Authentication add-on supporting JWT or username/password.PHP-SP-API: Single file PHP script that adds a REST API to a SQL database.PHP-CRUD-UI: Single file PHP script that adds a UI to a PHP-CRUD-API project.RequirementsPHP 5.3 or higher with MySQLi, libpq, SQLSRV or sqlite3 enabledPHP on Windows when connecting to SQL Server 2012
+
+-->toolkit-for-ynab/toolkit-for-ynab
+Toolkit for YNAB is a general purpose YNAB enhancing chrome extension. Have it your way!YNAB have released an exciting new web version. Lots of power users of the olderversions are asking for options that are easily implemented in a browser extension.Rather than ask the YNAB team to implement these features, let's just do itourselves!This is what the extension can do for you:Localisation - Allows you to use YNAB in an ever-growing list of foreign languages.Net Worth Report - Shows you how much your net worth is over time. Includes transactions in tracking accounts.Check Number Column - Allows you to enter your check numbers on transactions.
+
+-->nisrulz/easydeviceinfo
+SpecsBadges/Featured InAlso included inAwesome Android Newsletter #Issue 9Show some ❤️Android library to get device information in a super easy way.The library is built for simplicity and approachability. It not only eliminates most boilerplate code for dealing with device information, but also provides an easy and simple API to retrieve them.NoteEasyDeviceInfo is split into multiple module-libraries , v2.2.0 onwards. Use the appropriate one as per your requirement.
+
+-->meskarune/i3lock-fancy
+i3lock-fancyThis is an i3lock bash script that takes a screenshot of the desktop, blurs the background and adds a lock icon and textwebsite: github pages websiteDependenciesi3lock-color-giti3lock-color-git - this is a fork of i3lock-color that is kept up to date with i3lockimagemagickbashawk
+
+-->Meloduet/Wpf-BilibiliVideoFetcher
+Wpf-BilibiliVideoFetcher一个获取Bilibili视频下载地址的桌面应用RequirementOS: Windows 7+.NETFramework 4.5+Third party dependenciesMaterialDesignInXamlToolkitMaterialDesignColorsMaterialDesignThemes
+
+-->Meituan-Dianping/koa-restql
+koa-restqlBuild real RESTful APIs without writing one line of code. Cool, right?Now it works perfectly with MySQL.[toc]Installationkoa-restql requires node v6.0.0 or higher for (partial) ES2015 support.npm install --save koa-restqlUsageconst koa
+
+-->mdn/webextensions-examples
+webextensions-exampleshttps://github.com/mdn/webextensions-examplesMaintained by the MDN team at Mozilla.WebExtensions are a way to write browser extensions: that is, programsinstalled inside a web browser that modify the behaviour of the browser orof web pages loaded by the browser. They are built on a set ofcross-browser APIs, so WebExtensions written for Google Chrome or Opera willin most cases run in Firefox or Edge too.The "webextensions-examples" repository is a collection of simple but complete
+
+-->mdgriffith/elm-style-animation
+The Style Animation library for Elm!The BasicsTo get started, there are a few things that need to happen.Set an initial style in your model.import Animation exposing (px)init : Modelinit ={ style =Animation.style
+
+-->Trinea/android-open-project
+Android 开源项目分类汇总我们的微信公众号：codekk。二维码如下：专注于 Android 开源分享、源码解析、框架设计、Android 内推。我们的网站：www.codekk.comAndroid 开源项目源码解析(Volley、UIL、Dagger、EventBus、插件化库等分析)Android 职位内部推荐(阿里、腾讯、百度、京东、滴滴、美团、58、华为、网易、魅族等)强大的 Android 开源项目搜索站欢迎大家推荐好的 Android 开源项目，开源项目添加到 Android 开源项目集合，可以得到更多朋友的关注和反馈，欢迎Star、Fork :)关于我，欢迎关注
+
+-->mcxtzhang/NestFullListView
+NestFullListView作者相关：我的CSDN博客：http://blog.csdn.net/zxt0601我的稀土掘金：http://gold.xitu.io/user/56de210b816dfa0052e66495我的简书：http://www.jianshu.com/users/8e91ff99b072/timeline我的github：
+
+-->pompobit/ScanGO
+ScanGOHard to find pokemons on Pokemon GO? Are you scared about being banned? This apps allows you to scan your area for nearby pokemons without risk of ban!The pokemons found are shown on map and you will get notified when they are close to you with push notifications!The push notification works in background so you don't need to keep the app on screen to receive them!You can choose to see just the pokemons you want!.INFOThis App allows to scan the surrounding area to find all nearby pokemons and show them on map in real-time.It doesn't require login and it doesn't access to Niantic servers, so it won't get you banned. It uses third party services.Receive notifications when a pokemon on map is closer than a certain distance set by you!.
+
+-->mbrochh/django-reactjs-boilerplate
+Django ReactJS BoilerplateThis repository was used for my talk at thePython User Group Singapore March Meetup 2016I gave the talk a second time at a PyLadies meetup and it was recorded byEngineers.SG.The goal is to show how you can use ReactJS in your existing Django appstoday.This is far from perfect. This approach is not universal, so it only works forcomponents that don't need to be indexed by Google (and thus need to be
+
+-->mmp/pbrt-v3
+ fixesOct 16, 2016appveyor.ymlUpdate -->pallets/jinja
+-->mattmakai/fullstackpython.com
+This repository contains the source code forFull Stack Python.Contact GitHubAPITrainingShopBlogAbout© 2016 GitHub, Inc.
+
+-->skwp/dotfiles
+___| || || || |___| |_______| | ____|_____
+
+-->mattboldt/typed.js
+Sep 9, 2016bower.jsonversion numbersJul 7, 2016gulpfile.jsforgot to build...Jul 7, 2016index.htmreadme updates. Misc fixes
+
+-->rougier/numpy-100
+100 numpy exercisesThis is a collection of exercises that have been collected in the numpy mailinglist, on stack overflow and in the numpy documentation. I've also created someto reach the 100 limit. The goal of this collection is to offer a quickreference for both old and new users but also to provide a set of exercices forthose who teach.→ Test them on Binder→ Read them on GitHubThis work is licensed under a MIT license.
+
+-->mathnet/mathnet-numerics
+Math.NET NumericsMath.NET Numerics is an opensource numerical library for .Net, Silverlight and Mono.Math.NET Numerics is the numerical foundation of the Math.NET initiative, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Covered topics include special functions, linear algebra, probability models, random numbers, statistics, interpolation, integration, regression, curve fitting, integral transforms (FFT) and more.In addition to the core .NET package (which is written entirely in C#), Numerics specifically supports F# with idiomatic extension modules and maintains mathematical data structures like BigRational that originated in the F# PowerPack. If a performance boost is needed, the managed-code provider backing its linear algebra routines and decompositions can be exchanged with wrappers for optimized native implementations such as Intel MKL.Math.NET Numerics is covered under the terms of the MIT/X11 license. You may therefore link to it and use it in both opensource and proprietary software projects. We accept contributions!Project WebsiteSource CodeNuGet & Binaries | Release NotesDocumentation | API Reference
+
+-->remobile/react-native-splashscreen
+React Native SplashScreen (remobile)A splashscreen for react-native, hide when application loadedInstallationnpm install @remobile/react-native-splashscreen --saveInstallation (iOS)Drag RCTSplashScreen.xcodeproj to your project on Xcode.Click on your main project file (the one that represents the .xcodeproj) select Build Phases and drag libRCTSplashScreen.a from the Products folder inside the RCTSplashScreen.xcodeproj.Look for Header Search Paths and make sure it contains $(SRCROOT)/../../../react-native/React as recursive.In your project, Look for Header Search Paths and make sure it contains $(SRCROOT)/../node_modules/@remobile/react-native-splashscreen/ios/RCTSplashScreen
+
+-->Sirupsen/logrus
+LogrusLogrus is a structured logger for Go (golang), completely API compatible withthe standard library logger. [Godoc][godoc]. Please note the Logrus API is notyet stable (pre 1.0). Logrus itself is completely stable and has been used inmany large deployments. The core API is unlikely to change much but pleaseversion control your Logrus to make sure you aren't fetching latest master onevery build.Nicely color-coded in development (when a TTY is attached, otherwise justplain text):
+
+-->rabbitmq/rabbitmq-tutorials
+RabbitMQ tutorialsThis project contains code for RabbitMQ tutorials.LanguagesThe following ports are available:C#C# (with Visual Studio)ClojureCommon LispElixir
+
+-->sloria/cookiecutter-flask
+-->markyun/My-blog
+马云云的Github博客，记录一些学习的片段。微博：马云云_理想青年博客首页前端开发面试题 Front-end-Developer-Questions(不定期更新) 欢迎Star和提交issues爱骑行、爱摄影、爱阅读的理想青年。南京Contact GitHubAPI
+
+-->ttezel/twit
+twitTwitter API Client for nodeSupports both the REST and Streaming API.Installingnpm install twitUsage:var Twit = require('twit')var T = new Twit({consumer_key:
+
+-->marcotcr/lime
+limeThis project is about explaining what machine learning classifiers (or models) are doing.At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data), with a package called lime (short for local interpretable model-agnostic explanations).Lime is based on the work presented in this paper. Here is a link to the promo video:Our plan is to add more packages that help users understand and interact meaningfully with machine learning.Lime is able to explain any black box text classifier, with two or more classes. All we require is that the classifier implements a function that takes in raw text or a numpy array and outputs a probability for each class. Support for scikit-learn classifiers is built-in.InstallationThe lime package is on pypi. Simply run:pip install lime
+
+-->Maratyszcza/NNPACK
+NNPACKNNPACK is an acceleration package for neural network computations. NNPACK aims to provide high-performance implementations of convnet layers for multi-core CPUs.NNPACK is not intended to be directly used by machine learning researchers; instead it provides low-level performance primitives to be leveraged by higher-level frameworks, such as Torch, Caffe, Tensorflow, Theano, and Mocha.jl.RequirementsHost systemLinux or OS X host systemx86-64 processor with AVX2 instruction setNNPACK is optimized for Intel Skylake, but can run on Haswell & Broadwell processors tooSSE2 instruction set can be targeted using --enable-psimd configuration option, but for performance reasons it is not recommended for production use
+
+-->mapillary/OpenSfM
+OpenSfMOverviewOpenSfM is a Structure from Motion library written in Python on top of OpenCV. The library serves as a processing pipeline for reconstructing camera poses and 3D scenes from multiple images. It consists of basic modules for Structure from Motion (feature detection/matching, minimal solvers) with a focus on building a robust and scalable reconstruction pipeline. It also integrates external sensor (e.g. GPS, accelerometer) measurements for geographical alignment and robustness. A JavaScript viewer is provided to preview the models and debug the pipeline.Checkout this blog post with more demosDependenciesOpenCVOpenGVCeres SolverBoost Python
+
+-->nomiddlename/log4js-node
+log4js-nodeThis is a conversion of the log4jsframework to work with node. I've mainly stripped out the browser-specific code and tidied up some of the javascript.Out of the box it supports the following features:coloured console logging to stdout or stderrreplacement of node's console.log functions (optional)file appender, with configurable log rolling based on file size or dateSMTP appenderGELF appender
+
+-->sj26/mailcatcher
+MailCatcherCatches mail and serves it through a dream.MailCatcher runs a super simple SMTP server which catches any message sent to it to display in a web interface. Run mailcatcher, set your favourite app to deliver to smtp://127.0.0.1:1025 instead of your default SMTP server, then check out http://127.0.0.1:1080 to see the mail that's arrived so far.FeaturesCatches all mail and stores it for display.Shows HTML, Plain Text and Source version of messages, as applicable.Rewrites HTML enabling display of embedded, inline images/etc and open links in a new window.Lists attachments and allows separate downloading of parts.Download original email to view in your native mail client(s).
+
+-->OpenBrews/OpenBrews
+OpenBrewsA brewing app for iOS and Android, built with Ionic Framework.Alpha ReleaseGo to our Releases page to download ourAlpha release. This supports Android 4.1 and up.Setup/UsagePrereqsIonic installed globallynpm install -g cordova ionic
+
+-->phil-opp/blog_os
+Blog OSThis repository contains the source code for the Writing an OS in Rust series at os.phil-opp.com.Bare BonesA Minimal x86 Kernel(source code)Entering Long Mode(source code)Set Up Rust(source code)
+
+-->manateelazycat/deepin-terminal
+Oct 21, 2016deepin-terminal.desktopMake "quake mode" item at below of "new window" in desktop file.Aug 27, 2016main.valaAdjust commandline description.Oct 21, 2016project_path.cAdd Copyright information in file header.
+
+-->nojhan/liquidprompt
+Liquid Prompt — a useful adaptive prompt for Bash & zshLiquid Prompt gives you a nicely displayed prompt with useful informationwhen you need it. It shows you what you need when you need it.You will notice what changes when it changes, saving time and frustration.You can even use it with your favorite shell – Bash or zsh.FeaturesIf there is nothing special about the current context, the appearance of LiquidPrompt is similar to that of a default prompt:[user:~] $
+
+-->mailcheck/mailcheck
+mailcheck.jsThe Javascript library and jQuery plugin that suggests a right domain when your users misspell it in an email address.mailcheck.js is part of the Mailcheck family, and we're always on the lookout for more ports and adaptions. Get in touch!What does it do?When your user types in "user@gmil.con", Mailcheck will suggest "user@gmail.com".Mailcheck will offer up suggestions for second and top level domains too. For example, when a user types in "user@hotmail.cmo", "hotmail.com" will be suggested. Similarly, if only the second level domain is misspelled, it will be corrected independently of the top level domain.See it live in action here.InstallationFor instant use, download the minified library mailcheck.min.js into your javascripts directory. mailcheck.js is also available unminimised if you want to hack on it, or have your own minimizer.
+
+-->thinkgem/jeesite
+JeeSite 企业信息化快速开发平台平台简介JeeSite是基于多个优秀的开源项目，高度整合封装而成的高效，高性能，强安全性的开源Java EE快速开发平台。JeeSite是您快速完成项目的最佳基础平台解决方案，JeeSite是您想学习Java平台的最佳学习案例，JeeSite还是接私活的最佳助手。JeeSite是在Spring Framework基础上搭建的一个Java基础开发平台，以Spring MVC为模型视图控制器，MyBatis为数据访问层，Apache Shiro为权限授权层，Ehcahe对常用数据进行缓存，Activit为工作流引擎。是JavaEE界的最佳整合。JeeSite主要定位于企业信息化领域，已内置企业信息化系统的基础功能和高效的代码生成工具，包括：系统权限组件、数据权限组件、数据字典组件、核心工具组件、视图操作组件、工作流组件、代码生成等。前端界面风格采用了结构简单、性能优良、页面美观大气的Twitter Bootstrap页面展示框架。
+
+-->MahApps/MahApps.Metro.IconPacks
+MahApps.Metro.IconPacksSome awesome icons all together...The IconPacks library contains controls to use awesome icons fromMaterial (v1.7.22)Font Awesome (v4.7)GitHub Octicons (v4.3.0)ModernEntypo+for WPF and UWP apps in a simple way.
+
+-->RisingStack/graffiti-mongoose
+MongooseMongoose (MongoDB) adapter for GraphQL.graffiti-mongoose generates GraphQL types and schemas from your existing mongoose models, that's how simple it is. The generated schema is compatible with Relay.For quick jump check out the Usage section.Installnpm install graphql @risingstack/graffiti-mongoose--saveExampleCheck out the /example folder.
+
+-->magomimmo/modern-cljs
+Latest tutorialsTutorial 22 - A reasoned porting of the Official React Tutorial to Reagent - Part IIPart II of a step by step reasoned porting of the Official React Tutorial to Reagent.Tutorial 21 - A reasoned porting of the Official React Tutorial to Reagent - Part IPart I of a step by step reasoned porting of the Official React Tutorial to Reagent.Tutorial 20 - House KeepingStep by step guide for publishing a library to clojars repository byusing boot.Modern ClojureScript
+
+-->vmware/burp-rest-api
+burp-rest-apiOverviewA REST/JSON API to the Burp Suite security tool.Upon successfully building the project, an executable JAR file is created with the Burp Suite Professional JAR bundledin it. When the JAR is launched, it provides a REST/JSON endpoint to access the Scanner, Spider, Proxy and otherfeatures of the Burp Suite Professional security tool.Try it outPrerequisitesJava 8
+
+-->M66B/XPrivacy
+XPrivacyThe ultimate, yet easy to use, privacy manager for Android(publication)IndexDescriptionFeaturesScreenshotsRestrictionsLimitations
+
+-->m4n3dw0lf/PytheM
+PytheM - Penetration Testing Framework v0.5.7PytheM is a python multi-purpose pentest framework. It has been developed in the hope that it will be useful and I don't take responsibility for any misapplication of it. Only runs on GNU/Linux OS.InstallationInstallation guideExamplesARP spoofing - Man-in-the-middle.Man-in-the-middle HSTS bypass - Strip SSLARP+DNS spoof - fake page redirect to credential harvesterDHCP ACK Injection spoofing - Man-in-the-middle
+
+-->lzjqsdd/scikit-learn-doc-cn
+scikit-learn-doc-cnsklearn库作为目前机器学习非常流行的python库，一个易读的文档更有助于工具库的理解和使用，虽然做机器学习方面的学生和工程师阅读英文并没有很大压力，但是在阅读速度上还是会有些影响。寻找已久没找到相关的中文文档，而且翻译的过程也是对知识熟悉的过程，您可以在学习某一个章节的过程顺便翻译一下就可以贡献自己的力量。欢迎大家踊跃加入！如果有更好的翻译组织形式也欢迎提出！加入微信群*中文文档地址:sklearn.lzjqsdd.com翻译计划图标状态
+
+-->lyfeyaj/sublime-text-imfix
+Sublime Text 2/3 Input Method(Fcitx) Fix [Ubuntu(Debian)]Main PurposesThis repo is aimed at doing the following three things:Install Sublime Text 3Install Fcitx Input MethodFix Sublime Text 2/3's input method problem(Mainly for CJK characters) under Ubuntu(Debian) SystemUpdates(new) Fix "Package Preference" cannot open issue. Thanks for @liberize(new) Now, Sublime opened by Icon.desktop can also use Fcitx Input（Dash Icon also work）
+
+-->luvit/luvit
+-->sriyegna/Pikaptcha
+Pikaptcha*I am currently in the process of moving so development is going to be very slow for the next few days. A GUI is almost in place that will account for most of the user input errors. *Based off pikapy by skvvv, which is based off ptc2 Kitryn, which is based off ptcaccount by jepayne1138, etc.Also uses pogoapi from keyphactWas updated with several features/fixes on Aug 23 2016. To update open CMD or terminal^^Update also broke (email verification) which is now fixed as of Aug 23 2016 5:30AM EST. Update again please.pip install --upgrade git+https://github.com/sriyegna/pikaptchaDescriptionPikaptcha creates PTC accounts by creating a chrome session and automatically entering data in the required fields. If you choose to use the 2captcha service, the entire script can be run automatically, else you will need to manually solve captchas.
+
+-->PokeBotPub/PokeBot-Android
+Update -->Vuedo/vuedo
+VuedoWhat is Vuedo?Vuedo is an open source project built with Laravel and Vue.js. It is a live example of how everything works together.Interested in more theory? Here is the official announcement.Website using Vuedo in production : https://vuejsfeed.com/Vue.js Feed is a place where News, Tutorials, Plugins, Showcases and more things regarding Vue are handpicked and shared with the community.Basic Features:Manage posts and mediaCategorize posts
+
+-->resque/resque
+-->looly/elasticsearch-definitive-guide-cn
+Elasticsearch 权威指南（中文版）阅读地址：Elasticsearch权威指南（中文版）原书地址：Elasticsearch the definitive guide原作者： clinton gormley，zachary tong译者： Looly参与翻译：@iridiumcao@cvvnx1@conan007ai
+
+-->VoLuong/Awesome-Linux-Software
+Replace dead beginner's guide link for arch linux.Nov 18, 2016README_zh-CN.md[160902]update zh-CN verSep 2, 2016-->substack/dnode
+-->Lobos/react-ui
+A collection of components for React.文档 戳这里使用npm installnpm install rctuivar ReactUI = require('rctui')var Form = ReactUI.Form...// 或者单独使用一个组件
+
+-->LMAX-Exchange/disruptor
+LMAX DisruptorA High Performance Inter-Thread Messaging LibraryMaintainerMichael BarkerDocumentationIntroductionGetting StartedChangelog3.3.6
+
+-->liuzhenangel/react-ruby-china
+Oct 14, 2016index.htmloptimize the bootstrapOct 25, 2016package.jsonadd navbar active styleOct 9, 2016webpack.config.jsadd redux && topics && topic && jobs
+
+-->MOxFIVE/hexo-theme-yelee
+Jun 26, 2016_config.ymladd: setting for limit_article_widthJul 25, 2016package.jsonUpdateOct 16, 2015-->RMerl/asuswrt-merlin
+asuswrt-merlinThis is an enhanced version of Asuswrt - the firmware used by all recent Asus routers.The goal of this project is to fix issues and bring some minor functionality adjustments to theoriginal Asus firmware.While some features do get added, this is not the main focus of this project.It is not meant to replace existing projects such as Tomato or DD-WRT, but rather to offer an alternativefor people who prefer the original firmware featureset.At this time, the supported devices are:RT-N66U
+
+-->magicmonty/bash-git-prompt
+Informative git prompt for bash and fishThis prompt is a port of the "Informative git prompt for zsh" which you canfind hereA bash prompt that displays information about the current git repository.In particular the branch name, difference with remote branch, number of filesstaged, changed, etc.(an original idea from this blog post).gitstatus.sh and git-prompt-help.sh added by AKS.ATTENTION! Breaking changes!
+
+-->voldemort/voldemort
+Voldemort is a distributed key-value storage systemOverviewData is automatically replicated over multiple servers across multiple datacenters.Data is automatically partitioned so each server contains only a subset of the total dataServer failure is handled transparentlyPluggable serialization is supported to allow rich keys and values including lists and tuples with named fields, as well as to integrate with common serialization frameworks like Protocol Buffers, Thrift, and Java SerializationData items are versioned to maximize data integrity in failure scenarios without compromising availability of the systemEach node is independent of other nodes with no central point of failure or coordinationPluggable storage engines, to cater to different workloads
+
+-->linkedin/rest.li
+Rest.li is an open source REST framework for building robust, scalable RESTfularchitectures using type-safe bindings and asynchronous, non-blocking IO. Rest.lifills a niche for applying RESTful principals at scale with an end-to-end developerworkflow for buildings REST APIs that promotes clean REST practices, uniforminterface design and consistent data modeling.Source | Documentation | Discussion GroupFeaturesEnd-to-end framework for building RESTful APIsApproachable APIs for writing non-blocking client and server code using ParSeq
+
+-->line/line-bot-sdk-ruby
+Line::Bot::APILine::Bot::API - SDK of the LINE Messaging API for Ruby.About the LINE Messaging APISee the official API reference documentation for more information.https://devdocs.line.me/SynopsisUsage:# app.rbrequire 'sinatra'
+
+-->lindell/JsBarcode
+IntroductionJsBarcode is a barcode generator written in JavaScript. It supports multiple barcode formats and works in browsers and with Node.js. It has no dependencies when it is used for the web but works with jQuery if you are into that.DemoBarcode GeneratorSimple CodePen DemoSettings CodePen DemoSupported barcodes:CODE128CODE128 (automatic mode switching)
+
+-->SFTtech/openage
+openage: a volunteer project to create a free engine clone of Age of Empires II,primarily aimed at POSIX platforms such as GNU/Linux,comparable in its goals to projects like OpenMW, OpenRA, OpenTTD and OpenRCT2openage uses the original game assets (such as sounds and graphics), but (for obvious reasons) doesn't ship them.To play, you require an original AoE II : TC installation or AoE II: HD(Wine is your friend; in the near future, setup discs will be supported)./r/openage forumThe foundation of openage:Technology
+
+-->libvmi/libvmi
+-->warmcat/libwebsockets
+Aug 26, 2016README.problems.mdplugin table dirlistingJul 14, 2016README.test-apps.mdSubject: Fix some typographical and grammatical errors.Oct 3, 2016appveyor.ymlprotocol generic sessions
+

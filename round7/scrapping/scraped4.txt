@@ -1,0 +1,285 @@
+-->jsonresume/resume-cli
+resume-cliThis is the command line tool for JSON Resume, the open source initiative to create a JSON-based standard for resumes.Read more...DonationsIRCUse your favorite IRC client to join the #jsonresume channel on Freenode.Or instead, you can use the web client:http://webchat.freenode.net.Getting Started
+
+-->rstacruz/rscss
+Viewing this from GitHub? Visit the website for the full experience. rscss.io →rscssStyling CSS without losing your sanityReasonable System for CSS Stylesheet Structure.A set of simple ideas to guide your process of building maintainable CSS.IntroductionAny CSS greater than 1000 lines will get unwieldy. You'll eventually run into these common pitfalls:"What does this class mean?""Is this class still being used?"
+
+-->ttsvetko/HTML5-Desktop-Notifications
+Sep 19, 2016bower.jsonPublish to bowerSep 19, 2016circle.ymlRemove circle artifacts folder on each build and recreate itSep 12, 2016karma.conf.jsUpdate test commands
+
+-->jrowberg/i2cdevlib
+-->jpetazzo/orchestration-workshop
+Docker Orchestration WorkshopThis is the material (slides, scripts, demo app, and othercode samples) for the "Docker orchestration workshop"written and delivered by Jérôme Petazzoni (and lots of others)non-stop since June 2015.ContentChapter 1: Getting Started: running apps with docker-composeChapter 2: Scaling out with Swarm ModeChapter 3: Operating the Swarm (networks, updates, logging, metrics)
+
+-->jpetazzo/dind
+Docker-in-DockerThis recipe lets you run Docker within Docker.There is only one requirement: your Docker version should support the--privileged flag.A word of warningIf you came here because you would like to run a testing system likeJenkins in a container, and want that container to spin up more containers,then please read this blog postfirst. Thank you!
+
+-->josdejong/mathjs
+http://mathjs.orgMath.js is an extensive math library for JavaScript and Node.js.It features a flexible expression parser and offers an integrated solutionto work with numbers, big numbers, complex numbers, units, and matrices.Powerful and easy to use.FeaturesSupports numbers, big numbers, complex numbers, fractions, units, strings, arrays, and matrices.Is compatible with JavaScript's built-in Math library.Contains a flexible expression parser.
+
+-->kotlintest/kotlintest
+KotlinTestKotlinTest is a flexible and comprehensive testing tool for the Kotlin ecosystem based on and heavily inspired by the superb Scalatest. KotlinTest provides several ways to lay out your test so that your team can pick the style they are most happy with. It also includes many matchers which allow you to write many different types of assertions easily and in a human readable way. Finally, there's helpers for things like collection testing, and future testing.For latest updates see ChangelogCommunityForumStack Overflow (Ask the first question there and don't forget to use the tag "kotlintest".)ContributeHow to useKotlinTest is published to Maven Central, so to use, simply add the dependency in test scope to your build file. You can get the latest version from the little badge at the top of the readme.
+
+-->major/MySQLTuner-perl
+MySQLTuner-perlMySQLTuner is a script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.The current configuration variables and status data is retrieved and presented in a brief format along with some basic performance suggestions.MySQLTuner supports in this last version ~300 indicators for MySQL/MariaDB/Percona Server.MySQLTuner is maintained and indicator collect is increasing week after week supporting a lot of configuration such as , , , Linux OS metrics, , , , ...You can found more details on this indicators.MySQLTuner needs you:MySQLTuner needs contributors for documentation, code and feedbacks..
+
+-->JonathanSalwan/ROPgadget
+ROPgadget ToolThis tool lets you search your gadgets on your binaries to facilitate your ROP exploitation.ROPgadget supports ELF/PE/Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPSarchitectures. Since the version 5, ROPgadget has a new core which is written in Pythonusing Capstone disassembly framework for the gadgets search engine - The older version canbe found in the Archives directory but it will not be maintained.InstallIf you want to use ROPgadget, you have to install Capstone first.For the Capstone's installation on nix machine:
+
+-->johnwheeler/flask-ask
+-->pikacode/EBForeNotification
+Aug 23, 2016README_CHS.mdupdateAug 23, 2016UISounds.zipupdateAug 23, 2016-->johnlui/SwiftNotice
+SwiftNoticeSwiftNotice is a GUI library for displaying various popups (HUD) written in pure Swift, fits any scrollview.FeaturesPretty easy to useIn any subclass of UIView, UIScrollView, UIViewController, UITableViewController, UITableViewCell:self.pleaseWait()self.noticeTop("OK!")self.noticeSuccess("Success!")self.noticeError("Error!")
+
+-->takari/polyglot-maven
+OverviewPolyglot for Maven is a set of extensions for Maven 3.3.1+ that allows the POM model to be written in dialects other than XML. Several of the dialects also allow inlined plugins: the Ruby, Groovy and Scala dialects allow this.Here's an example POM written in the Ruby dialect:project 'Polyglot :: Aggregator' domodel_version '4.0.0'id 'io.tesla.polyglot:tesla-polyglot:0.0.1-SNAPSHOT'inherit 'io.tesla:tesla:4'packaging 'pom'properties( 'sisuInjectVersion' => '0.0.0.M2a',
+
+-->JodaOrg/joda-time
+Joda-TimeJoda-Time provides a quality replacement for the Java date and time classes.The design allows for multiple calendar systems, while still providing a simple API.The 'default' calendar is the ISO8601 standard which is used by XML.The Gregorian, Julian, Buddhist, Coptic, Ethiopic and Islamic systems are also included, and we welcome further additions.Supporting classes include time zone, duration, format and parsing.As a flavour of Joda-Time, here's some example code:public boolean isAfterPayDay(DateTime datetime) {if (datetime.getMonthOfYear() == 2) {
+
+-->jobbole/awesome-java-cn
+Java资源大全中文版我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。awesome-java 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 ImportNew。Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。我们要做什么？基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。整理后的内容，将收录在伯乐在线资源频道。可参考已整理的内容：《OWNER：Java配置文件解决方案》《Spring Boot：简化Spring应用初始搭建以及开发过程》《SonarQube：开源的代码质量管理工具》
+
+-->jnunemaker/httparty
+httpartyMakes http fun again!Installgem install httpartyRequirementsRuby 2.0.0 or highermulti_xmlYou like to party!Examples
+
+-->rasbt/python-machine-learning-book
+python-machine-learning-bookPython Machine Learning* code repository.What you can expect are 400 pages rich in useful material just about everything you need to know to get started with machine learning ... from theory to the actual code that you can directly put into action! This is not yet just another "this is how scikit-learn works" book. I aim to explain all the underlying concepts, tell you everything you need to know in terms of best practices and caveats, andwe will put those concepts into action mainly using NumPy, scikit-learn, and Theano.You are not sure if this book is for you? Please checkout the excerpts from the Foreword and Preface, or take a look at the FAQ section for further information.1st edition, published September 23rd 2015Paperback: 454 pagesPublisher: Packt PublishingLanguage: English
+
+-->rasbt/mlxtend
+Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.Sebastian Raschka 2014-2016LinksDocumentation:html: http://rasbt.github.io/mlxtend/pdf: http://sebastianraschka.com/pdf/software/mlxtend-latest.pdfPyPI: https://pypi.python.org/pypi/mlxtendChangelog: http://rasbt.github.io/mlxtend/changelogContributing: http://rasbt.github.io/mlxtend/contributing
+
+-->jMonkeyEngine/jmonkeyengine
+jMonkeyEnginejMonkeyEngine is a 3D game engine for adventurous Java developers. It’s open source, cross platform and cutting edge. And it is all beautifully documented. The 3.0 branch is the latest stable version of the jMonkeyEngine 3 SDK, a complete game development suite. We'll be frequently submitting stable 3.0.x updates until the major 3.1 version arrives.The engine is used by several commercial game studios and computer-science courses. Here's a taste:jME powered games on IndieDBMaker's TaleBoardtastic 2CopodAttack of the Gelatinous BlobChaos
+
+-->reverse-shell/routersploit
+RouterSploit - Router Exploitation FrameworkThe RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.It consists of various modules that aids penetration testing operations:exploits - modules that take advantage of identified vulnerabilitiescreds - modules designed to test credentials against network servicesscanners - modules that check if target is vulnerable to any exploitInstallationRequirementsgnureadline (OSX only)
+
+-->oblac/jodd
+JoddJodd is set of open source Java micro-frameworks and tools; compact, yet powerful.Jodd = tools + ioc + mvc + db + aop + tx + json + html < 1.7 MbRead about Jodd:Official web site (site, documentation, information): http://jodd.org/GitHub page (5 min overview): http://oblac.github.io/joddJodd micro-frameworks (30 min overview): http://joddframework.orgOne-page love: http://jodd.org/aboutJodd Modules
+
+-->smartstoreag/SmartStoreNET
+OverviewSmartStore.NET is a free, open source, full-featured e-commerce solution for companies of any size. It is web standards compliant and incorporates the newest Microsoft web technology stack.SmartStore.NET includes all essential features to create multilingual and multi-currency stores targeting desktop or mobile devices and enabling SEO optimized rich product catalogs with support for an unlimited number of products and categories, variants, bundles, datasheets, ESD, discounts, coupons and many more.A comprehensive set of tools for CRM & CMS, sales, marketing, payment & shipping handling, etc. makes SmartStore.NET a powerful all-in-one solution fulfilling all your needs... totally FREE!SmartStore.NET delivers a beautiful and configurable shop front-end out-of-the-box, built with a design approach on the highest level, including components like Twitter Bootstrap, Less CSS and others. The innovative ShopBar, a powerful layered navigation, reviews & ratings, an optimized checkout process... they all provide a perfect shopping experience for your buyers.The state-of-the-art architecture of SmartStore.NET - with ASP.NET 4.5 + MVC 5, Entity Framework 6 and Domain Driven Design approach - makes it easy to extend, extremely flexible and essentially fun to work with ;-)Website: http://www.smartstore.com/en/netForum: http://community.smartstore.comMarketplace: http://community.smartstore.com/marketplace
+
+-->quartznet/quartznet
+-->nutzam/nutz
+Nutz对于 Java 程序员来说，除 SSH 之外，的另一个选择Talk is cheap. Show me the code!!项目目标在力所能及的情况下，最大限度的提高 Web 开发人员的生产力。项目各种资源地址项目官网GithubNutz社区 有问必答,秒回复
+
+-->jhu-ep-coursera/fullstack-course5
+Course: Single Page Web Applications with AngularJSThis repository contains the source code for the Single Page Web Applications with AngularJS hosted on Coursera.orgContact GitHubAPITrainingShopBlogAbout© 2016 GitHub, Inc.
+
+-->jhu-ep-coursera/fullstack-course4
+Coursera: HTML, CSS and Javascript for Web DevelopersExample Source CodeThis repository contains all of the example source code used in the Coursera.org course calledHTML, CSS and Javascript for Web Developers.Enroll now! It's free!Frequently Asked QuestionsPlease check our FAQ to see if a question you want to ask on the forums has been answered already. Here is the link to the FAQ:Frequently Asked QuestionsContact GitHub
+
+-->scalatra/scalatra
+-->Nyr/openvpn-install
+openvpn-installOpenVPN road warrior installer for Debian, Ubuntu and CentOS.This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.InstallationRun the script and follow the assistant:wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.shOnce it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.I want to run my own VPN but don't have a server for thatYou can get a little VPS for just $2.99/month at Bandwagon Host.
+
+-->keepassxreboot/keepassx
+KeePassXC - KeePass Cross-platform Community EditionAboutFork of KeePassX that aims to incorporate stalled Pull Requests, features, and bug fixes that are not being incorporated into the main KeePassX baseline.Additional Reboot Featureskeepasshttp support for use with PassIFox for Mozilla Firefox and chromeIPass for Google Chrome.KeePassHttp implementation has been forked from jdachtera's repository, which in turn was based on code from code with Francois Ferrand's keepassx-http repository.This is a rebuild from denk-mal's keepasshttp that brings it forward to Qt5 and KeePassX v2.x.InstallationRight now KeePassXR does not have a precompiled executable or an installation package.
+
+-->jfurrow/flood
+FloodFlood is another web interface for rtorrent. It implements a Node.js server for communicating with the rTorrent API, storing historical data, and serving the web UI.It's a work-in-progress, and it might not have all of the features you want (yet). However, new features are added frequently. Feel free to file an issue and I'll try to prioritize your feature requests.FeedbackIf you have a specific issue or bug, please file a Github issue. If you want to participate in discussions about Flood's future, please join the Flood Slack team (get an instant invite first).UsagePre-RequisitesrTorrent needs to be installed with XMLRPC configuration. If you are currently using a web UI for rTorrent, you've already done this.For Linux & OS X, check out rTorrent's installation wiki and/or this third-party tutorial. When you run ./configure, be sure to run with the --with-xmlrpc-c flag.
+
+-->kelseyhightower/kubernetes-cluster-federation
+Federated Kubernetes TutorialThis tutorial will walk you through testing Kubernetes cluster federation. This guide will cover the following federation features:Federated ServicesFederated SecretsFederated ReplicaSetsSee the Kubernetes Cluster Federation aka Ubernetes design doc for more details.PrerequisitesClone This RepositoryFirst checkout this repository which contains the Kubernetes configs required to build the federated control plane.
+
+-->JetBrains/Unity3dRider
+Unity3dRiderIntegrates JetBrains Rider into the Unity 3D editor.Rider support for Unity:Debugging of Unity instances.Use the Run → "Attach to local process" menu item to list available Unity instances.Run → "Edit Configurations" → Add new "Mono remote" configuration to set everything manually.[From EAP13 - 163.7608] Addition Rider support for Unity via ReSharper plugin (File→Settings→Plugins→Type Unity→Press "search in repositories"→ReSharper Unity plugin will be found→Install.→Restart Rider.).However, Unity does not currently support Rider. This plugin adds that support:An "Open C# Project in Rider" item to the Assets menu.
+
+-->JetBrains/spek
+A Specification Framework for the JVMVisit the web site for more documentation and informationCopyright (c) 2012-2016 Hadi Hariri and ContributorsLicensed under Modified BSDContact GitHubAPITrainingShopBlog
+
+-->JetBrains/Exposed
+Kotlin SQL LibraryExposed is a prototype for a lightweight SQL library written over JDBC driver for Kotlin language.It does have two layers of database access: typesafe SQL wrapping DSL and lightweight data access objectsExposed is currently available for maven/gradle builds at https://bintray.com/kotlin/exposed/exposed/view#SQL DSL sample:import org.jetbrains.exposed.sql.*import org.jetbrains.exposed.sql.transactions.transactionimport org.jetbrains.exposed.sql.SchemaUtils.createimport org.jetbrains.exposed.sql.SchemaUtils.drop
+
+-->Sable/soot
+What is Soot?Soot is a Java optimization framework. It provides four intermediate representations for analyzing and transforming Java bytecode:Baf: a streamlined representation of bytecode which is simple to manipulate.Jimple: a typed 3-address intermediate representation suitable for optimization.Shimple: an SSA variation of Jimple.Grimp: an aggregated version of Jimple suitable for decompilation and code inspection.See http://www.sable.mcgill.ca/soot/ for details.How do I get started with Soot?We have some documentation on Soot in the wiki and also a large range of tutorials on Soot.
+
+-->jessfraz/dockerfiles
+dockerfilesThis is a repo to hold various Dockerfiles for images I create.I try to make sure each has a command at the top for running it,if a file you are looking at does not have a command, pleasepull request it!Almost all of these live on dockerhub under jess.Because you cannot use notary with autobuilds on dockerhub I also build thesecontinuously on a private registry at r.j3ss.co for public download. (You'rewelcome.)
+
+-->johnno1962/injectionforxcode
+Injection Plugin for XcodeCopyright (c) John Holdsworth 2012-16TLDR:Injection for Xcode is an Xcode plugin (available via Alcatraz) or AppCode thatdynamically inserts new Swift / Objective-C code into a running app in order to speed up your build process. It does this without making any changes to your project.Announcements of major additions to the project will be made on twitter @Injection4Xcode.Stop PressIf you know the trick which I won't detail here plugins still load in Xcode 8 GM and injection has beenupdated for it and Swift 3. Patched injection works fine and unpatched injection works if the
+
+-->shoreditch-ops/artillery
+Oct 20, 2016VagrantfileAdd Vagrant (#104)May 27, 2016package.json1.5.0-17Oct 25, 2016-->jensoleg/swagger-ui
+Swagger UI responsive themeWith inspiration from the Auth0 api explorer the original Swagger UI repo is modified to use a responsive layout.The theme will adapt to screen size and works on tablets and mobile phones.A JSON editor for the request body (disabled by default).JSON editor configuration example:jsonEditor: true,jsonEditorOptions: {disableProperties:false,disableEditJson:false,
+
+-->Quramy/tsuquyomi
+Jun 22, 2016capt_comp.pngAdd a capture imageApr 2, 2015package.jsonUpdate deps verNov 15, 2016runtest.shImport completion
+
+-->sripathikrishnan/redis-rdb-tools
+Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSONRdbtools is a parser for Redis' dump.rdb files. The parser generates events similar to an xml sax parser, and is very efficient memory wise.In addition, rdbtools provides utilities to :Generate a Memory Report of your data across all databases and keysConvert dump files to JSONCompare two dump files using standard diff toolsRdbtools is written in Python, though there are similar projects in other languages. See FAQs for more information.Installing rdbtoolsPre-Requisites :
+
+-->jorisvink/kore
+AboutKore (https://kore.io) is an easy to use web application framework forwriting scalable web APIs in C. Its main goals are security, scalabilityand allowing rapid development and deployment of such APIs.Because of this Kore is an ideal candidate for building robust, scalable and secure web things.FeaturesSupports SNISupports HTTP/1.1Websocket support
+
+-->jeantil/admission_post_bac
+Admission post-bacCode source d'Admission post-bac envoyé par le ministère de l'EducationnationaleCode source publiéEn PDF qui contient un scan du code imprimé parcequ'on est en 2016Article sur rue 89 :http://rue89.nouvelobs.com/2016/10/18/voici-code-source-dapb-tenu-secret-jusqua-present-265443Comprendre l'algorithmeSelon les commentaires laissés sur mon gist initial:
+
+-->openMVG/awesome_3DReconstruction_list
+-->kjw0612/awesome-deep-vision
+Update -->jbhuang0604/awesome-computer-vision
+Awesome Computer Vision:A curated list of awesome computer vision resources, inspired by awesome-php.For a list people in computer vision listed with their academic genealogy, please visit hereContributingPlease feel free to send me pull requests or email (jbhuang1@illinois.edu) to add links.Table of ContentsBooksCoursesPapers
+
+-->jayway/powermock
+Nov 4, 2016changelog.txtUpdate changelog.txtNov 9, 2016generate_javadoc.shAdded mockito2 and common library to javadoc generationApr 29, 2016pom.xml[maven-release-plugin] prepare for next development iteration
+
+-->jayway/JsonPath
+Feb 29, 2016build.gradleAdd support for JettisonJun 30, 2016changelog.mdPrepared release 2.2.0Feb 29, 2016gradlewupdate Gradle wrapper to 2.8
+
+-->jayfk/statuspage
+StatuspageA statuspage generator that lets you host your statuspage for free on GitHub. Usesissues to display incidents and labels for severity.DemoSee a real status page generated by this at status.pyup.io or a demo siteQuickstartInstall statuspage with pip:pip install statuspageThere are also binaries for macOS and Linux available, see installation for more.
+
+-->jay0lee/GAM
+Oct 23, 2016-->javiersantos/AppUpdater
+Aug 27, 2016build.gradleUpdate libraries and buildToolsAug 27, 2016gradle.propertiesInitial commitFeb 2, 2016gradlewInitial commit
+
+-->javaparser/javaparser
+-->karalabe/xgo
+xgo - Go CGO cross compilerAlthough Go strives to be a cross platform language, cross compilation from oneplatform to another is not as simple as it could be, as you need the Go sourcesbootstrapped to each platform and architecture.The first step towards cross compiling was Dave Cheney's golang-crosscompilepackage, which automatically bootstrapped the necessary sources based on yourexisting Go installation. Although this was enough for a lot of cases, certaindrawbacks became apparent where the official libraries used CGO internally: anydependency to third party platform code is unavailable, hence those parts don't
+
+-->jaspervdj/hakyll
+-->OfficeDev/PnP
+Patterns and PracticesThis is the main repository for the community driven Office 365 Developer Patterns and Practices (PnP) initiative. If you are looking for latest news around PnP or related topics, please have a look on our one pager at http://aka.ms/OfficeDevPnP.PnP initiative has numerous GitHub repositories, so that you can more easily find what's relevant for you depending on your interest. Easiest way to follow up on latest changes is our landing page at http://aka.ms/OfficeDevPnP. We also recommend you to use the PnP sample and solution search tool at dev.office.com for finding relevant content for you.PnP at dev.office.com - Welcome page with sample and guidance searchSharePoint Dev Group - Questions and feedbackPnP at MSDNPnP videos at YouTubePnP at Docs.com - Docs.comPnP Sites Core Component - GitHub repository
+
+-->jasperproject/jasper-client
+jasper-clientClient code for the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.Learn more at jasperproject.github.io, where we have assembly and installation instructions, as well as extensive documentation. For the relevant disk image, please visit SourceForge.ContributingIf you'd like to contribute to Jasper, please read through our Contributing Guide, which outlines the philosophies to preserve, tests to run, and more. We highly recommend reading through this guide before writing any code.The Contributing Guide also outlines some prospective features and areas that could use love. However, for a more thorough overview of Jasper's direction and goals, check out the Product Roadmap.Thanks in advance for any and all work you contribute to Jasper!SupportIf you run into an issue or require technical support, please first look through the closed and open GitHub Issues, as you may find a solution there (or some useful advice, at least).
+
+-->jasonslyvia/react-lazyload
+react-lazyloadLazyload your Components, Images or anything matters the performance.Online DemoWhy it's betterTake performance in mind, only 2 event listeners for all lazy-loaded componentsSupport both one-time lazy load and continuous lazy load modescroll / resize event handler is throttled so you won't suffer frequent update, you can switch to debounce mode tooDecorator supportedThoroughly tested
+
+-->joni2back/angular-filemanager
+angular-filemanagerA very smart filemanager to manage your files in the browser developed in AngularJS with Material-Design styles by Jonas Sciangula StreetSupportThis project is under free license. If you want to support the angular-filemanager development or just thank it's main maintainer by paying a beer, you can make a donation by clicking the following buttonTry the DEMOFeaturesMultilanguage (English, Chinese, Spanish, Russian, Portuguese, French, German, Italian, Slovak, Hebrew, Persian, Polish, Ukrainian, Turkish)Multiple templates (List / Icons)Multiple file upload
+
+-->pahen/madge
+MaDGe - Module Dependency GraphMadge is a developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and give you other useful info. Joel Kemp's awesome dependency-tree is used for extracting the dependency tree.Works for JavaScript (AMD, CommonJS, ES6 modules) and CSS preprocessors (Sass, Stylus)NPM installed dependencies are excluded by default (can be enabled in config)All core Node.js modules (assert, path, fs, etc) are excludedRecurse into child dependencies to get a complete dependency tree of a fileRead the changelog for latest changes.ExamplesGraph generated from madge's own code and dependencies.
+
+-->javallone/regexper-static
+RegexperCode for the http://regexper.com/ site.ContributingI greatly appreciate any contributions that you may have for the site. Feel free to fork the project and work on any of the reported issues, or let me know about any improvements you think would be beneficial.When sending pull requests, please keep them focused on a single issue. I would rather deal with a dozen pull requests for a dozen issues with one change each over one pull request fixing a dozen issues. Also, I appreciate tests to be included with feature development, but for minor changes I will probably not put up much of a fuss if they're missing.Working with the codeNode is required for working with this site.To start with, install the necessary dependencies:$ npm install
+
+-->ratiw/vue-table
+vuetable - data table simplify!No need to render the table yourselfOne simple vuetable tagDisplay data retrieved from server with sort optionsSupport multi-column sorting (v1.2.0) by @balpingPagination component included, swap-able and extensibleDefine fields to map your JSON data structureDefine row actions and capture the click event to do whatever you wantField display customizable via callback function inside Vue.js instance
+
+-->redox-os/kernel
+-->shekhargulati/java8-the-missing-tutorial
+Aug 5, 2016java8-slides.pdfadding fileDec 21, 2015-->picturepan2/spectre
+Spectre.cssSpectre.css is a lightweight, responsive and modern CSS framework for faster and extensible development.lightweight and clean starting point for your project and prototypeflexbox, responsive and mobile-friendly layoutcarefully designed elementsbuilt in useful components and utilitiesresponsive email templates (soon)Spectre is a side project based on years of CSS development work on a large web service project. Spectre only includes modern base styles, responsive layout system, CSS components and utilities, and it can be modified for your project with LESS compiler.Read the documentation to learn more.
+
+-->JamieMason/shrinkpack
+shrinkpackShrinkpack complements the npm shrinkwrap command bymaintaining a node_shrinkwrap directory in your project, containing the exact same tarballs thatnpm install downloads from https://registry.npmjs.org.The rest of the npm install process is exactly the same. The only difference is that no networkactivity is necessary when installing and building your project. The node_shrinkwrap directory canbe ignored in your editor (much like is done with the node_modules directory) but is insteadchecked into source control.For context, please see the target problem and justification
+
+-->seL4/seL4
+-->Julian/jsonschema
+-->wnr/element-resize-detector
+element-resize-detectorSuper-optimized cross-browser resize listener for elements. Up to 37x faster than related approaches (read section 5 of the article).npm install element-resize-detectorUsageInclude the script in the browser:<script src="node_modules/element-resize-detector/dist/element-resize-detector.min.js"></script>This will create a global function elementResizeDetectorMaker, which is the maker function that makes an element resize detector instance.You can also require it like so:var elementResizeDetectorMaker = require("element-resize-detector");
+
+-->TedGoas/Cerberus
+Cerberus Responsive Email PatternsCoding regular emails is hard enough by itself. Making them responsive shouldn't add to the headache. A few simple, but solid patterns are all that's needed to optimize emails for small screens.That's what Cerberus is.It's just a few responsive email patterns that go a long way. The code blocks are compartmentalized so that they may be used, combined, and nested to build an email.Each template is annotated and has good support among popular email clients.Learn More and See ExamplesContentscerberus-fluid.html - Good for simple layouts such as transactional and single column emails.cerberus-responsive.html - Good for more complicated, shape-shifting email layouts that work on some mobile clients.
+
+-->square/flow
+Flow"Name-giving will be the foundation of our science." - Linnaeus"The winds and waves are always on the side of the ablest navigators." - Gibbon"Memory is the treasury and guardian of all things." - CiceroFlow gives names to your Activity's UI states, navigates between them, and remembers where it's been.FeaturesNavigate between UI states. Support the back button easily without confusing your users with surprising results.Remember the UI state, and its history, as you navigate and across configuration changes and process death.Manage resources with set-up/tear-down hooks invoked for each UI state. UI states can easily share resources, and they'll be disposed when no longer needed.
+
+-->JadenGeller/Helium
+HeliumHelium is a floating browser window that allows you to watch media, browse theweb and do much more while you stay productive. Your content will never fallbehind your other windows even as you switch tasks. Helium supports acustomizable translucency mode that allows you to simultaneously see yourcontent and your work, without intercepting mouse clicks when it's translucent.You have the ability to click, drag, scroll behind your floating content.Getting StartedHead over to http://heliumfloats.com and install the latest version of Helium.
+
+-->phpservermon/phpservermon
+-->tomekwi/elm-live
+-->tmk/tmk_keyboard
+TMK Keyboard Firmware CollectionThis repository includes keyboard and converter firmware projects built with tmk_core keyboard library.The latest source code is available here: http://github.com/tmk/tmk_keyboardUpdates2016/06/26Keymap framework was updated. fn_actions[] should be defined as action_t instead of uint16_t. And default code for keymap handling is now included in core you just need define uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS] and action_t fn_actions[].2016/06/22Some projects were moved from converter and keyboard to orphan directory. Those might be removed in some future but you will be able to access them with orphans tag. See https://github.com/tmk/tmk_keyboard/issues/1732016/02/10
+
+-->jabbany/CommentCoreLibrary
+CommentCoreLibrary 弹幕核心通用构件The CommentCoreLibrary is a set of Javascript modules that make up thecore controller for comments streaming on top of timed media (video or audio).It is intended as a catalyst for the development of timed "danmaku" commentsin HTML5.Developers willing to incorporate similar comment streaming functionalitiesinside their own projects (whether web based or not) are encouraged to learnfrom and extend from the CommentCoreLibrary.Testing
+
+-->ivanseidel/IAMDinosaur
+IAMDinosaurA simple artificial intelligence to teach Google Chrome's offline dinosaur tojump cactus, using Neural Networks and a simple Genetic Algorithm.Watch this video to see it in action, and learn how it works: Artificial Inteligence with Google's DinosaurInstallationInstall Node.js on your computer.Clone/download this folder to your computer.run npm install within this folderOpen Chrome's dinosaur game and put aside the terminal (It MUST be on the same screen)
+
+-->pmmp/PocketMine-MP
+This program is free software: you can redistribute it and/or modifyit under the terms of the GNU Lesser General Public License as published bythe Free Software Foundation, either version 3 of the License, or(at your option) any later version.This program is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty ofMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See theGNU Lesser General Public License for more details.
+
+-->jainaman224/Algo_Ds_Notes
+updateNov 2, 2016-->ITCoders/Human-detection-and-Tracking
+Human detetion and TrackingIntroductionIn this project we have worked on the problem of human detection,face detection, face recognition and tracking an individual. Our project is capable of detecting a human and its face in a given video and storing Local Binary Pattern Histogram (LBPH) features of the detected faces.LBPH features are the key points extracted from an image which is used to recognize and categorize images. Once a human is detected in video, we have tracked that person assigning him a label. We have used the stored LBPH features of individuals to recognize them in any other videos. After scanning through various videos our program gives output like- person labeled as subject1 is seen in video taken by camera1, subject1 is seen in video by camera2. In this way we have tracked an individual by recognizing him/her in the video taken by multiple cameras. Our whole work is based on the application of machine learning and image processing with the help of openCV.This code is built on opencv 3.1.1 and python 3.4RequirementsopencvInstallation in linux:For complete installation of opencv in ubuntu you can refer here.Installation in windowsFor complete installation of opencv in windows you can refer here
+
+-->kvangent/PokeAlarm
+.Sep 26, 2016alarms.json.defaultAdded support for IV/Move filtering and added IV/Move dynamic text.Sep 27, 2016license.txtAdded GNU GPL License.Aug 11, 2016requirements.txtAdded -tz, --timzone command for specifying timezone.
+
+-->jasonlong/isometric-contributions
+This is an extension for Chrome, Safari (see note below), and Firefox (beta) that lets you toggle between your regular GitHub contribution chart and an isometric pixel art version. It uses obelisk.js for the isometric graphics.Besides being sort of neat looking, this view is interesting in that it highlights the differences between the number of contributions with more granularity. This isn't meant to completely replace the standard 2D graph though, because in most ways it is actually less useful. For example, there are no axis labels, shorter bars can be hidden behind taller ones, you can't hover over a bar to see the day and count, etc.InstallationNOTE: When installing this extension, you will likely see a warning about it needing access to all domains, not just github.com. This is required for people who are using GitHub Enterprise since it can be installed on any domain name.ChromeThe easiest way to install the extension is through the Chrome Web Store:https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en&gl=USFirefoxOnly Firefox Developer Edition is supported at the moment. Set xpinstall.signatures.required to false in about:config. Download the isometric-contributions.xpi file and open it in Firefox Developer Edition. Or, in Add-ons Manager, choose "Install Add-on From File" under the wrench icon and choose the xpi file you downloaded.
+
+-->ISBX/apprtc-ios
+Nov 16, 2015-->ipython-contrib/jupyter_contrib_nbextensions
+Jupyter notebook extensionsThis repository contains a collection of extensions that add functionality to the Jupyter notebook.These extensions are mostly written in Javascript and will be loaded locally inyour browser.The IPython-contrib repository is maintained independently by a group of users and developers and not officially relatedto the IPython development team.The maturity of the provided extensions varies, so pleasecreate an issueat the project's
+
+-->rbock/sqlpp11
+sqlpp11A type safe embedded domain specific language for SQL queries and results in C++Documentation is found in the wikiContact:Meet me at CppCon 2016Issues at https://github.com/rbock/sqlpp11/issuesemail at rbock at eudoxos dot deBreaking changes in 0.36:See Changes
+
+-->sbilly/awesome-security
+Awesome SecurityA collection of awesome software, libraries, documents, books, resources and cool stuff about security.Inspired by awesome-php, awesome-python.Thanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.Awesome SecurityNetworkScanning / PentestingMonitoring / LoggingIDS / IPS / Host IDS / Host IPS
+
+-->timegridio/timegrid
+-->WendellAdriel/dev-curriculum
+Dev CurriculumInstant web curriculum generator for developersWhat is this?Dev Curriculum is the fastest and simplest way to make a web curriculum for developers.In few minutes you can have your own Web Curriculum for free using Dev Curriculum and Github Pages.What is a web curriculum?It's the reduced version of a Curriculum Vitae, but made as a web page.Who this is made for?Any developer that doesn't have a Web Curriculum.
+
+-->inorichi/tachiyomi
+BuildDownloadAuto UpdateReport an issueBefore reporting a new issue, take a look at the FAQ, the changelog and the already opened issues.Tachiyomi is a free and open source manga reader for Android.Keep in mind it's still a beta, so expect it to crash sometimes.FeaturesOnline and offline reading
+
+-->Xethron/migrations-generator
+Laravel Migrations GeneratorGenerate Laravel Migrations from an existing database, including indexes and foreign keys!Laravel 5 installationThe recommended way to install this is through composer:composer require --dev --no-update "xethron/migrations-generator:dev-l5"composer require --dev --no-update "way/generators:dev-feature/laravel-five-stable"composer config repositories.repo-name git "git@github.com:jamisonvalenta/Laravel-4-Generators.git"composer updateEdit config/app.php and add this to providers section:
+
+-->jgrossi/corcel
+CorcelThis package allows you to use WordPress as backend (admin panel) and retrieve its data using Eloquent, with any PHP project or even framework.Follow @corcelphp on TwitterCorcel is a class collection created to retrieve WordPress database data using a better syntax. It uses the Eloquent ORM developed for the Laravel Framework, but you can use Corcel in any type of PHP project, with any framework, including Laravel.This way, you can use WordPress as the backend (admin panel), to insert posts, custom types, etc, and you can use whatever you want in the frontend, like Silex, Slim Framework, Laravel, Zend, or even pure PHP (why not?). So, just use Corcel to retrieve data from WordPress.InstallationTo install Corcel, just run the following command:composer require jgrossi/corcelUsage
+
+-->leafo/lapis
+LapisA web framework for Lua/MoonScript.Lapis is production ready, use it on your next huge project.http://leafo.net/lapis/Lapis Poweredhttp://luarocks.org - sourcehttp://itch.iohttp://streak.club - sourcehttp://mundodescuento.com/
+
+-->kairosdb/kairosdb
+KairosDB is a fast distributed scalable time series database written on top of Cassandra.DocumentationDocumentation is found here.Frequently Asked QuestionsInstallingDownload the latest KairosDB release.Installation instructions are found hereGetting InvolvedJoin the KairosDB discussion group.
+
+-->nodejs/http-parser
+HTTP ParserThis is a parser for HTTP messages written in C. It parses both requests andresponses. The parser is designed to be used in performance HTTPapplications. It does not make any syscalls nor allocations, it does notbuffer data, it can be interrupted at anytime. Depending on yourarchitecture, it only requires about 40 bytes of data per messagestream (in a web server that is per connection).Features:No dependencies
+
+-->mailpile/Mailpile
+Welcome to Mailpile!IntroductionMailpile (https://www.mailpile.is/) is a modern, fast web-mail clientwith user-friendly encryption and privacy features. The development ofMailpile is funded bya large community of backersand all code related to the project is and will be released under an OSIapproved Free Software license.Mailpile places great emphasis on providing a clean, elegant user
+
+-->jwtk/jjwt
+Java JWT: JSON Web Token for Java and AndroidJJWT aims to be the easiest to use and understand library for creating and verifying JSON Web Tokens (JWTs) on the JVM.JJWT is a Java implementation based on the JWT, JWS, JWE, JWK and JWA RFC specifications.The library was created by Stormpath's CTO, Les Hazlewoodand is now maintained by a community of contributors.Stormpath is a complete authentication and user management API for developers.We've also added some convenience extensions that are not part of the specification, such as JWT compression and claim enforcement.What's a JSON Web Token?Don't know what a JSON Web Token is? Read on. Otherwise, jump on down to the Installation section.
+
+-->mapnik/mapnik
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+-->lyst/lightfm
+LightFMBuild statusLinuxOSX (OpenMP disabled)Windows (OpenMP disabled)LightFM is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback. It's easy to use, fast (via multithreaded model estimation), and produces high quality results.It also makes it possible to incorporate both item and user metadata into the traditional matrix factorization algorithms It represents each user and item as the sum of the latent representations of their features, thus allowing recommendations to generalise to new items (via item features) and to new users (via user features).For more details, see the Documentation.Articles and tutorials on using LightFM
+
+-->igoticecream/Snorlax
+SnorlaxCheck pokemons stats. Available through Xposed repositoryThis module acts as a man in the middle on Pokémon Go's communications with the server, and allows us to add extra features to the game.Features:Prevent PokemonGo from detecting GPS is being spoofed (similar to Mock Mock Locations)Show pokemon stats on the inventory with custom formatsShow pokemon stats as a system notification when you encounter them: IV's, HP, CP, level, moves, catch probabilityShow catch results: Success, missed, flee, etc.Check out the Wiki page to learn how to use custom formats.
+
+-->IgniteUI/igniteui-react
+Ignite UI Components for ReactUse the declarations available in igniteui-react.js (or igniteui-react.min.js) to use Ignite UI controls as React components. Work with the running samples here.RequirementsjQuery v1.9 and laterReactJS 15.3.2 and laterIgnite UI 16.1 and laterBabel-Core 5.8.38 and later for optional JSX supportInstallYou can install the package with npm.
+
+-->IgniteUI/ignite-ui
+Ignite UIIgnite UI™ helps you build powerful, high-performance web-based applications. Inside Ignite UI you'll find user experience controls and components for creating engaging line-of-business web applications which target the browsers for both mobile & desktop environments.AboutIgnite UIIgnite UI is built on jQuery and jQuery UI and ties in seamlessly with the jQuery core model and conventions including all styling support via jQuery UI Theme Roller. Beyond jQuery Ignite UI features support for Bootstrap themes, AngularJS, Knockout and jQuery Mobile.Available Features in Ignite UI open-source versionFeatureIgnite UI OSSIgnite UI Full
+
+-->IDSIA/sacred
+-->icholy/ttygif
+ttygif converts a ttyrec file into gif files.It's a stripped down version of ttyplay that screenshots every frame.DemoSetupDebian/Ubuntu$ sudo apt-get install imagemagick ttyrec gcc x11-apps$ git clone https://github.com/icholy/ttygif.git$ cd ttygif$ make
+
+-->icanzilb/EasyAnimation
+ver 1.1The library doesn't use any private APIs - apps using it should be fine for release on the App Store.IntroLayer AnimationsSpring Layer AnimationsChain AnimationsCancel Chain AnimationsInstallationCredit
+
+-->pili-engineering/PLMediaStreamingKit
+Sep 2, 2016header-doc.pngv2.0.0 releaseAug 5, 2016-->Mantle/Mantle
+MantleMantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touchapplication.The Typical Model ObjectWhat's wrong with the way model objects are usually written in Objective-C?Let's use the GitHub API for demonstration. Howwould one typically represent a GitHubissue inObjective-C?
+
+-->IanLunn/Hover
+Hover.cssA collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.Demo|TutorialDownload/InstallNPM: npm install --save hover.cssBower: bower install HoverDownload Zip
+
+-->vivien/i3blocks
+i3blocksi3blocks is a highly flexible status line for the i3window manager. It handles clicks, signals and language-agnostic userscripts.The content of each block (e.g. time, battery status, network state, ...) isthe output of a command provided by the user. Blocks are updated on click,at a given interval of time or on a given signal, also specified by theuser.It aims to respect the
+
+-->snide/sphinx_rtd_theme
+-->scrapy-plugins/scrapy-splash
+-->SexualRhinoceros/MusicBot
+RhinoBot: The music bot for Discord.MusicBot is a Discord music bot written in Python. It plays requested songs and if the queue becomes empty it will play through a list of existing songs.How do I set it up?CLICK HERE to find the guide that suites your operating system.CommandsCommands are listed here.ConfigurationThe main configuration file is config/options.ini, but is not included.Simply make a copy of example_options.ini and rename to options.ini.
+

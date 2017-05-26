@@ -1,0 +1,5 @@
+create table starsall (repo_name char(120), actor_login char(50), type char(10), created_at char(30));
+COPY starsall FROM 'D:\dataGirls\October2016WatchEvents\combined.csv' DELIMITER ',' CSV header;
+select repo_name, count(actor_login) into fin from starsall group by repo_name order by repo_name;
+select * into finx from fin where count > 1;
+copy finx to 'D:\dataGirls\testing3\newresults.csv' with delimiter ',';

@@ -1,0 +1,329 @@
+-->xtaci/kcp-go
+kcp-goIntroductionkcp-go is a full-featured reliable-UDP library for golang. It provides reliable, ordered, and error-checked delivery of a stream of octets between applications running on hosts communicating over an IP network.FeaturesOptimized for Real-Time Strategy Game.Compatible with skywind3000's C version with modifications.Cache friendly and Memory optimized design in golang.Compatible with net.Conn and net.Listener.FEC(Forward Error Correction) Support with Reed-Solomon Codes
+
+-->Xeroday/Spotify-Ad-Blocker
+EZBlockerEZBlocker is a Spotify Ad Blocker written in C# for Windows 7/8/10.It uses non-intrusive methods to read the Spotify client to extract song information. When an advertisement is playing, EZBlocker will mute Spotify and automatically resume playing regular music when the ad is over.Because EZBlocker does not modify the Spotify client in any way, it is less buggy compared to other ad blockers. The goal for EZBlocker is to be the most reliable and stable ad blocker for Spotify.For more info, visit the EZBlocker project page.To download a pre-compiled binary of the latest version, click here.Changelog (Major releases only):V 1.6 (March 10, 2016):Better handling of Spotify updates/restarts
+
+-->WechatFE/vConsole
+English | 简体中文vConsoleA lightweight, extendable front-end developer tool for mobile web page.FeaturesView console logsView network requestsExecute JS command manuallyCustom pluginUsage
+
+-->Yara-Rules/rules
+Oct 12, 2016Webshells_index.yarFixing bug in index_genOct 30, 2016email_index.yarFixing bug in index_genOct 30, 2016index.yarFixing bug in index_gen
+
+-->verlok/lazyload
+LazyLoad (aka Vanilla LazyLoad)LazyLoad is a fast, lightweight and flexible script for loading images only when they're about to enter the viewport of a scrollable area, which supports the srcset attribute and with and takes best advantage from the progressive JPEG image format (which is good for performance).WEBSITE | DEMOS | GITHUBDifference with jQuery_lazyloadThis script was inspired by Mika Tuupola's jQuery_lazyLoad.The following are the main differences between the scripts.LazyLoad is 6x faster than jQuery_lazyload. This is because LazyLoad uses only optimized, native javascript functions and methods, and not jQuery. Your users will see the difference, even in slow devices or computers. To measure the scripts performance yourself, see lazyLoad and jQuery_lazyLoad implementations in the perf folder.Progressive JPEG support will improve perceived speed. Progressive JPEG is an image format good for perceived performance because it's rendered in progressive passes of detail. lazyLoad has an option called show_while_loading that, when set to true, shows your images while they load, letting progressive JPEG do its magic. As jQuery_lazyload doesn't have this option, it will only show your images once fully loaded.LazyLoad can be instanced on many scrolling containers on the same page, whereas jQuery_lazyload can't.
+
+-->upgoingstar/datasploit
+Overview of the tool:Performs OSINT on a domain / email / username / phone and find out information from different sources.Correlates and collaborate the results, show them in a consolidated manner.Tries to find out credentials, api-keys, tokens, subdomains, domain history, legacy portals, etc. related to the target.Use specific script / launch automated OSINT for consolidated data.Available in both GUI and Console.Basic Usage:____/ /____ _ / /_ ____ _ _____ ____/ /____
+
+-->Ulterius/client
+-->twitter/scala_school
+This is Scala School - a set of lessons covering the Scala programming language.We use jekyll to generate the site. In order to build it, you must first install it:$ gem install jekyllshould do. Now, build the site with make. This will create a copy of the lessons in the web.out folder.For development, you'll also need to install RedCloth.$ gem install RedCloth$ gem install jekyll-textile-converterThen make serve will launch jekyll in serving mode: a web server will be launched on port 4000, and changing files will automatically rebuild the site.To publish to http://twitter.github.io/scala_school:
+
+-->Trinea/android-common
+Mar 10, 2015pom.xml[maven-release-plugin] prepare for next development iterationMay 13, 2014proguard.cfgAdd proguard.cfgFeb 25, 2014project.propertiesHttpCache support thread cache
+
+-->tpope/vim-rails
+-->tpolecat/doobie
+doobiedoobie is a pure functional JDBC layer for Scala. It is not an ORM, nor is it a relational algebra; it just provides a principled way to construct programs (and higher-level libraries) that use JDBC. doobie introduces very few new abstractions; if you are familiar with basic scalaz typeclasses like Functor and Monad you should have no trouble here.For common use cases doobie provides a minimal but expressive high-level API:import doobie.imports._, scalaz.effect.IOval xa = DriverManagerTransactor[IO]("org.postgresql.Driver", "jdbc:postgresql:world", "postgres", "")case class Country(code: String, name: String, population: Long)def find(n: String): ConnectionIO[Option[Country]] =
+
+-->top-think/thinkphp
+简介ThinkPHP 是一个免费开源的，快速、简单的面向对象的 轻量级PHP开发框架 ，创立于2006年初，遵循Apache2开源协议发布，是为了敏捷WEB应用开发和简化企业应用开发而诞生的。ThinkPHP从诞生以来一直秉承简洁实用的设计原则，在保持出色的性能和至简的代码的同时，也注重易用性。并且拥有众多的原创功能和特性，在社区团队的积极参与下，在易用性、扩展性和性能方面不断优化和改进，已经成长为国内最领先和最具影响力的WEB应用开发框架，众多的典型案例确保可以稳定用于商业以及门户级的开发。全面的WEB开发特性支持最新的ThinkPHP为WEB应用开发提供了强有力的支持，这些支持包括：MVC支持-基于多层模型（M）、视图（V）、控制器（C）的设计模式ORM支持-提供了全功能和高性能的ORM支持，支持大部分数据库模板引擎支持-内置了高性能的基于标签库和XML标签的编译型模板引擎RESTFul支持-通过REST控制器扩展提供了RESTFul支持，为你打造全新的URL设计和访问体验云平台支持-提供了对新浪SAE平台和百度BAE平台的强力支持，具备“横跨性”和“平滑性”，支持本地化开发和调试以及部署切换，让你轻松过渡，打造全新的开发体验。
+
+-->tonsky/rum
+Rum is a client/server library for HTML UI. In ClojureScript, it works as React wrapper, in Clojure, it is a static HTML generator.PrinciplesSimple semantics: Rum is arguably smaller, simpler and more straightforward than React itself.Decomplected: Rum is a library, not a framework. Use only the parts you need, throw away or replace what you don’t need, combine different approaches in a single app, or even combine Rum with other frameworks.No enforced state model: Unlike Om, Reagent or Quiescent, Rum does not dictate where to keep your state. Instead, it works well with any storage: persistent data structures, atoms, DataScript, JavaScript objects, localStorage or any custom solution you can think of.Extensible: the API is stable and explicitly defined, including the API between Rum internals. It lets you build custom behaviours that change components in significant ways.Minimal codebase: You can become a Rum expert just by reading its source code (~900 lines).Comparison to other frameworksRum:
+
+-->toddmotto/angular-styleguide
+ (#137)Nov 5, 2016-->toddmotto/angular-1-5-components-app
+Oct 5, 2016database.rules.jsonchore: Open source the app 🏄🏻Aug 25, 2016firebase.jsonchore: Open source the app 🏄🏻Aug 25, 2016gulpfile.babel.jsAdded Dgeni config for documentation generation
+
+-->voidlabs/mosaico
+Mosaico - Responsive Email Template EditorMosaico is a JavaScript library (or maybe a single page application) supporting the editing of email templates.The great thing is that Mosaico itself does not define what you can edit or what styles you can change: this is defined by the template. This makes Mosaico very flexible.At this time we provide a single template to illustrate some best practice examples: more templates will come soon! Please get in touch with us if you want to make your email html template "Mosaico ready".Live demoOn https://mosaico.io you can see a live demo of Mosaico: the live deploy has a custom backend (you don't see it) and some customization (custom Moxiemanager integration, customized onboarding slideshow, contextual menu, and some other small bits), but 95% of what you see is provided by this library. You will also see a second working template there: we are still working to open source it. Stay tuned!NewsSubscribe to our newsletter to get updates: http://mosaico.voxmail.it/user/registerMore Docs from the Wiki
+
+-->thoughtbot/bamboo
+BambooBamboo is part of the thoughtbot Elixir family of projects.Flexible and easy to use email for Elixir.Adapter based so it can be used with Mandrill, SMTP, or whatever else you want. Comes with a Mandrill adapter out of the box.Deliver emails in the background. Most of the time you don't want or need to wait for the email to send. Bamboo makes it easy with Mailer.deliver_laterEasy to format recipients. You can do new_email(to: Repo.one(User)) and Bamboo can format the User struct if you implement Bamboo.Formatter.Works out of the box with Phoenix. Use views and layouts to make rendering email easy.Very composable. Emails are just a Bamboo.Email struct and can be manipulated with plain functions.Easy to unit test. Because delivery is separated from email creation, no special functions are needed, just assert against fields on the email.
+
+-->TomorrowTodayLabs/NewtonVR
+SummaryGo to newtonvr.readme.io for documentation, guides on how to get started with NewtonVR, and basic integration instructions.Our system allows players to pick up, drop, throw, and use held objects. Items don't pass through other items (rigidbodies), or the environment (non-rigidbodies). Rather, held items interact with other rigidbodies naturally -- taking mass into account. For example, if you have two boxes of the same mass they can push each other equally, but a balloon, with considerably less mass, can't push a box.For more information on this style of mass-based interaction, see this article by Nick Abel, one of the creators of NewtonVR.Items can be configured to be picked up at any point, or when grabbed, can rotate and position themselves to match a predefined orientation. This lets you pick up a box from its corner as well as pick up a gun and have it orient to the grip.We've also created a few physical UI elements to help with basic configuration and "menu type scenarios. We also give you the option to dynamically let the controllers turn into physical objects on a button press.NewtonVR brought to you by Tomorrow Today Labs:Development: Keith Bradner, Nick AbelInteraction Design: Adrienne HunterModeling: Wesley Eldridge, Carli WoodAudio: Joshua Du CheneContact GitHub
+
+-->thestonefox/VRTK
+VRTK - Virtual Reality ToolkitA collection of useful scripts and prefabs for building VR titles in Unity 5.This Toolkit requires a compatible VR SDK to be imported into your Unity ProjectCompatible SDKsSteamVR PluginQuick Start for SteamVRClone this repository git clone https://github.com/thestonefox/VRTK.gitOpen VRTK within Unity3dImport the SteamVR Plugin from the Unity Asset Store
+
+-->wichtounet/thor-os
+-->thiagoalessio/tesseract-ocr-for-php
+Tesseract OCR for PHPA wrapper to work with Tesseract OCR inside PHP.InstallationFirst of all, make sure you have Tesseract OCR installed. (v3.03 or greater)As a composer dependency{"require": {"thiagoalessio/tesseract_ocr": "1.0.0-RC"}
+
+-->tencent-wechat/phxrpc
+Sep 16, 2016build.shreturn make resultSep 17, 2016phxrpc.mkfixSep 16, 2016-->ZoneMinder/ZoneMinder
+Sep 6, 2013cmakecacheimport.shRemove importing of binary directory in cmakecacheimport.shNov 15, 2013description-pakDoing my best to manually remove nextime's plugin architecture while …Aug 13, 2013versionbump version to 1.30.0
+
+-->YOURLS/YOURLS
+Update -->stuxuhai/jpinyin
+jpinyin - A opensource java library for converting chinese to pinyinJPinyin是一个汉字转拼音的Java开源类库，在PinYin4j的功能基础上做了一些改进。【JPinyin主要特性】1、准确、完善的字库；Unicode编码从4E00-9FA5范围及3007（〇）的20903个汉字中，JPinyin能转换除46个异体字（异体字不存在标准拼音）之外的所有汉字；2、拼音转换速度快；经测试，转换Unicode编码从4E00-9FA5范围的20902个汉字，JPinyin耗时约100毫秒。3、多拼音格式输出支持；JPinyin支持多种拼音输出格式：带音标、不带音标、数字表示音标以及拼音首字母输出格式；
+
+-->StockSharp/StockSharp
+StockSharp - trading platformStockSharp Home | Documentation | Download ZipIntroductionStockSharp (shortly S#) – are free programs for trading at any markets of the world (American, European, Asian, Russian, stocks, futures, options, Bitcoins, forex, etc.). You will be able to trade manually or automated trading (algorithmic trading robots, conventional or HFT).Available connections: FIX/FAST, LMAX, Rithmic, Fusion/Blackwood, Interactive Brokers, OpenECry, Sterling, IQFeed, E*Trade, BTCE, BitStamp and many other. Any broker or partner broker (benefits).S#.StudioS#.Studio is a free graphical environment for trading on any exchanges (american, europian and asian stock markets, forex, bitcoins and options). Support algorithmic strategies (C# or visual designer). More info...Screenshotsmore on official site...
+
+-->square/android-times-square
+TimesSquare for AndroidStandalone Android widget for picking a single date from a calendar view.UsageInclude CalendarPickerView in your layout XML.<com.squareup.timessquare.CalendarPickerViewandroid:id="@+id/calendar_view"android:layout_width="match_parent"android:layout_height="match_parent"/>
+
+-->spotify/helios
+HeliosHelios is a Docker orchestration platform for deploying and managingcontainers across an entire fleet of servers. Helios provides a HTTPAPI as well as a command-line client to interact with servers runningyour containers. It also keeps history of events in your cluster includinginformation such as deploys, restarts and version changes.Usage Example# Create an nginx job using the nginx container image, exposing it on the host on port 8080$ helios create nginx:v1 nginx:1.7.1 -p http=80:8080
+
+-->spotify/annoy
+-->urish/angular-moment
+angular-momentAngularJS directive and filters for Moment.JS.Copyright (C) 2013, 2014, 2015, 2016, Uri Shaked uri@urish.orgAngular 2 version is now available: angular2-momentInstallationYou can choose your preferred method of installation:Through bower: bower install angular-moment --saveThrough npm: npm install angular-moment moment --saveThrough NuGet: Install-Package angular-moment Moment.js
+
+-->soywiz/vitaorganizer
+VitaOrganizer 0.6.0Desktop tool for listing and uploading games and homebrew applications to PSVITA without the size requirementsof uploading the whole VPK and extracting it later.It is written in Kotlin/Java.It should work on Windows, Linux and MacOS. It is a Java desktop application, packed in an executable .JAR, thatcan be executed directly with double click on most cases.In other cases, you can run it with java -jar vitaorganizer-0.6.0.jarYou can download a prebuild binary here, or just build from source:Download VitaOrganizer 0.6.0 here
+
+-->sockeqwe/AdapterDelegates
+AdapterDelegatesRead the motivation for this project in my blog post.DependenciesThis library is available on maven central:compile 'com.hannesdorfmann:adapterdelegates3:3.0.0'Please note that since 3.0 the group id has been changed to adapterdelegates3.Snapshotcompile 'com.hannesdorfmann:adapterdelegates3:3.0.1-SNAPSHOT'You also have to add the url to the snapshot repository:
+
+-->slackhq/hubot-slack
+hubot-slackThis is a Hubot adapter to use with Slack.Comprehensive documentation is available.Contact GitHubAPITrainingShopBlogAbout
+
+-->sintaxi/harp
+Harpzero-configuration web server with built in pre-processingWhat is Harp?Harp is a static web server that also serves Jade, Markdown, EJS, Less, Stylus, Sass, and CoffeeScript as HTML, CSS, and JavaScript without any configuration. It supports the beloved layout/partial paradigm and it has flexible metadata and global objects for traversing the file system and injecting custom data into templates. Optionally, Harp can also compile your project down to static assets for hosting behind any valid HTTP server.Why?Pre-compilers are becoming extremely powerful and shipping front-ends as static assets has many upsides. It's simple, it's easy to maintain, it's low risk, easy to scale, and requires low cognitive overhead. I wanted a lightweight web server that was powerful enough for me to abandon web frameworks for dead simple front-end publishing.Featureseasy installation, easy to usefast and lightweight
+
+-->Sigil-Ebook/Sigil
+AboutSigil is a free, open source, multi-platform ebook editor.It is designed to edit books in ePub format (both ePub 2 and ePub 3).LinksIts website is located at http://sigil-ebook.comIts current code repository is located at https://github.com/Sigil-Ebook/SigilTranslations are located at https://www.transifex.com/projects/p/sigil/Support forums are located at http://www.mobileread.com/forumsSelect Sigil form the list of main forums
+
+-->shidenggui/easytrader
+Nov 20, 2016easytraderupdate -->weolar/miniblink49
+Oct 20, 2016-->xiaohaibin/XBanner
+Update -->wenmingvs/WeiBo
+Update -->vimagick/dockerfiles
+add vnc2flvNov 15, 2016-->shadowsocks/openwrt-shadowsocks
+Oct 9, 2016-->shadowsocks/luci-app-shadowsocks
+Sep 24, 2016-->sequelize/express-example
+Express ExampleThis repository demonstrates the usage of Sequelize within an Express application.The implemented logic is a simple task tracking tool.Starting Appnpm installnpm startThis will start the application and create an sqlite database in your app dir.Just open http://localhost:3000.Running Tests
+
+-->segiddins/ThisCouldBeUsButYouPlaying
+This Could Be Us But You PlayingGenerates a Swift Playground for any Pod.Installation$ gem install cocoapods-playgroundsUsageCocoaPodsTo generate a Playground for a specific Pod:$ pod playgrounds AlamofireTo generate a Playground for a local development Pod:
+
+-->yangyangwithgnu/use_vim_as_ide
+所需即所获：像 IDE 一样使用 vimyangyangwithgnu@yeah.net2016-03-30 16:39:33【谢谢】捐赠：支付宝 yangyangwithgnu@yeah.net ，支付宝二维码（左），微信二维码（右）二手书：书，我提高开发技能的重要手段之一，随着职业生涯的发展，书籍也在不断增多，对我而言，一本书最多读三遍，再往后，几乎没有什么营养吸收，这部分书对我已基本无用，但对其他人可能仍有价值，所以，为合理利用资源，我决定低价出售这些书，希望达到两个目的：0）用售出的钱购买更多新书（没当过雷锋的朋友 (๑´ڡ`๑)）；1）你低价购得需要的书（虽然二手）。到 https://github.com/yangyangwithgnu/used_books 看看有无你钟意的。【公告】帮助：英译版编制。github.com 上搜索 vim ide 关键字后第一匹配项便是本文，洋人浏览到本文的次数非常多，常常收到要求同步发表英文版的邮件，但是，你知道，这 80+ 页的中文已经耗费我大量业余时间，所以，如果可能，希望有精力的朋友可以将其翻译为英文，感谢！讨论：任何意见建议移步 http://www.v2ex.com/t/138696
+
+-->scribejava/scribejava
+Welcome to the home of ScribeJava, the simple OAuth client Java lib!Why use ScribeJava?Dead SimpleWho said OAuth/OAuth2 was difficult? Configuring ScribeJava is so easy your grandma can do it! check it out:OAuthService service = new ServiceBuilder().apiKey(YOUR_API_KEY).apiSecret(YOUR_API_SECRET).build(LinkedInApi20.instance());That single line (added newlines for readability) is the only thing you need to configure ScribeJava with LinkedIn's OAuth API for example.
+
+-->SaschaWillems/Vulkan
+Vulkan examples and demosAssorted C++ examples for Vulkan(tm), the new graphics and compute API from Khronos.BuildingThe repository contains everything required to compile and build the examples on Windows, Linux and Android using a C++ compiler that supports C++11. All required dependencies are included.WindowsA Visual Studio solution file for compiling all examples is included with the repository, examples will compile with VS2015 out of the box.If you're using a different IDE or compiler you can use the provided CMakeLists.txt for use with CMake to generate a build configuration for your toolchain.LinuxUse the provided CMakeLists.txt with CMake to generate a build configuration for your favorite IDE or compiler.
+
+-->wit-ai/duckling
+DucklingDuckling is a Clojure library that parses text into structured data:“the first Tuesday of October” => {:value "2014-10-07T00:00:00.000-07:00":grain :day}You can try it out at https://duckling.wit.aiSee our blog post announcement for more context.Getting startedTo use Duckling in your project, you just need two functions: load! to load the default configuration, and parse to parse a string.(ns myproject.core
+
+-->ruanyf/webpack-demos
+This repo is a collection of simple demos of Webpack.These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn the powerful tool.How to useFirst, install Webpack and webpack-dev-server globally.$ npm i -g webpack webpack-dev-serverThen, clone the repo and install the dependencies.# Linux & Mac$ git clone git@github.com:ruanyf/webpack-demos.git# Windows
+
+-->zalmoxisus/remote-redux-devtools
+Remote Redux DevToolsUse Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps.Installationnpm install --save-dev remote-redux-devtoolsUsageThere are 2 ways of usage depending if you're using other store enhancers (middlewares) or not.Add DevTools enhancer to your storeIf you have a basic store as described in the official redux-docs, simply replace:import { createStore } from 'redux';
+
+-->r-park/todo-angular2-firebase
+Todo app with Angular2, AngularFire2, and Firebase SDK 3A simple Todo app example built with Angular2 and AngularFire2. The app features a Firebase backend with OAuth authentication. Try the demo at ng2-todo-app.firebaseapp.com.Angular2 2.2.0Angular2 Router 3.2.0AngularFire2 2.0.0-beta.5Firebase SDK 3JSON DatastoreOAuth authentication with GitHub, Google, and TwitterHosting
+
+-->rovo89/XposedInstaller
+-->RobotiumTech/robotium
+User scenario testing for AndroidRobotium is an Android test automation framework that has full support for native and hybrid applications. Robotium makes it easy to write powerful and robust automatic black-box UI tests for Android applications. With the support of Robotium, test case developers can write function, system and user acceptance test scenarios, spanning multiple Android activities.See Questions & Answers for common Robotium questions and answers.See Getting Started for instructions and examples on how to create your first Robotium tests.Join the discussions in the Robotium Developers Group.NEWS: Robotium 5.6.3 is released!Robotium 5.6.3 is the fastest, most accurate and stable version of Robotium yet.New functionality includes: clickInRecyclerView(int itemIndex, int recyclerViewIndex, int id) and Config.sleepDuration, Config.sleepMiniDuration (to adjust the execution speed, lower means faster) and more. See the Javadoc for more information.Robotium provides the following benefits:
+
+-->Samsung/iotjs
+IoT.js: Platform for Internet of Things with JavaScriptYou can find project details on our project page and wiki.Quick StartGetting the sourcesgit clone https://github.com/Samsung/iotjs.gitcd iotjsHow to Buildtools/build.pyHow to Test
+
+-->sketchplugins/plugin-directory
+Sketch Plugin DirectoryA list of Sketch plugins hosted at GitHub, in alphabetical order.Note: if you want to add yours, just open an issue with the URL, or send a pull request.9 Patch Generator, by maundytime: Convert one or more artboards to 9patch layout, then export xxx.9.png to desktop.AEFlowchart, by Marko Tadić: Flowchart diagram plugin for Bohemian Coding Sketch app.AEIconizer, by Marko Tadić: iOS icon generator plugin for Bohemian Coding Sketch app.Align artboards and symbols, by Richard Gazdik: Group and align your Sketch symbols and artboards by name.Align Text Baseline, by Soutaro Matsumoto: Align text layer vertically based on its baseline and cap height.Align To, by Lucien Lee: Sketch 3 plugin that align layers relative to more options.
+
+-->twitter/heron
+HeronHeron is realtime analytics platform developed by Twitter. It is the directsuccessor of Apache Storm, built to be backwardscompatible with Storm's topology APIbut with a wide array of architectural improvements.For more information:Official Heron documentation located at heronstreaming.ioOfficial Heron resources, including Conference & Journal Papers, Videos, Blog Posts and selected Press located at Heron ResourcesTwitter Heron: Stream Processing at
+
+-->recastnavigation/recastnavigation
+Recast & DetourRecastRecast is state of the art navigation mesh construction toolset for games.It is automatic, which means that you can throw any level geometry at it and you will get robust mesh outIt is fast which means swift turnaround times for level designersIt is open source so it comes with full source and you can customize it to your heart's content.The Recast process starts with constructing a voxel mold from a level geometryand then casting a navigation mesh over it. The process consists of three steps,building the voxel mold, partitioning the mold into simple regions, peeling off
+
+-->snipsco/Postal
+Postal is a swift framework providing simple access to common email providers.ExampleConnectlet postal = Postal(configuration: .icloud(login: "myemail@icloud.com", password: "mypassword"))postal.connect { result inswitch result {case .success:print("success")case .failure(let error):
+
+-->ReactiveX/RxPHP
+Sep 10, 2016composer.jsonFixed phpunit deprecation warnings (#86)Oct 4, 2016phpunit.xml.distExclude all Interfaces from test coverageSep 10, 2016-->searchivarius/nmslib
+Update -->reliese/laravel
+Reliese LaravelReliese Laravel is a collection of Laravel Components which aim isto help the development process of Laravel applications byproviding some convenient code-generation capabilities.How does it work?This package expects that you are using Laravel 5.1 or above.You will need to import the reliese/laravel package via composer:composer require reliese/laravelConfiguration
+
+-->stasinopoulos/commix
+General InformationCommix (short for [comm]and [i]njection e[x]ploiter) is an automated tool written by Anastasios Stasinopoulos (@ancst) that can be used from web developers, penetration testers or even security researchers in order to test web-based applications with the view to find bugs, errors or vulnerabilities related to command injection attacks. By using this tool, it is very easy to find and exploit a command injection vulnerability in a certain vulnerable parameter or HTTP header.DisclaimerThis tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for illegal purposes!RequirementsPython version 2.6.x or 2.7.x is required for running this program.InstallationDownload commix by cloning the Git repository:git clone https://github.com/commixproject/commix.git commix
+
+-->zsh-users/antigen
+-->Slyce-Inc/SlyceMessaging
+Aug 11, 2016build.gradle[*] updated the support library to latest v24.1.1Aug 4, 2016circle.ymlCI CONFIG: this test results collection works best.Jul 15, 2016gradle.propertiesinitial commit
+
+-->Rafase282/My-FreeCodeCamp-Code
+My Work From FreeCodeCampThis repository is not for an app but more as a journal where I keep a record of everything I have done and learned from FreeCodeCamp. I decided to use a wiki as I can put more information easily on it. You will find the code easily on the directories, and more information on the wiki sectionI will try to keep everything updated. Please keep in mind that this started as a journal and so I have kept the code as it was when I solved the original challenges. This means that I did not re-write them with more advance techniques or improved on them but instead leave them as is until the problems are updated and they need thus the solution needs to be updated too.If you are also part of the camp or would like to contribute in any way then feel free to contact me. The purpose of this is for reference and learning material overall, for everyone as it is public. If you encounter a solution that no longer works then please open an issue so that I can work on it. While I do not accept solutions from other people for this repo, feel free to send pull request with fixes to typos or better explanations and examples. Shortly after I started this wiki, I became part of FreeCodeCamp and manage the wiki there, so if you want updated solutions with more advance solutions you will find them there instead.If you find this useful then follow and start it, feel free to share it also.If you want to contribute to the repo in general with fixes such as typos, better explanations or anything other than replacing my code solutions then follow this guide. How To Contribute To The Repository.Contact meRafael RodriguezGithub | FreeCodeCamp |
+
+-->quartz-scheduler/quartz
+Nov 5, 2016README.txtAdd Maven wrapperOct 15, 2016TestCategories.propertiesAdd test categoriesMar 2, 2012mvnwAdd Maven wrapper
+
+-->shogun-toolbox/shogun
+The SHOGUN machine learning toolboxUnified and efficient Machine Learning since 1999.Latest release:Cite Shogun:Develop branch build status:Buildbot: http://buildbot.shogun-toolbox.org/waterfall.See doc/readme/ABOUT.md for a project description.See doc/readme/INSTALL.md for installation instructions.See doc/readme/INTERFACES.md for calling Shogun from its interfaces.
+
+-->redguardtoo/mastering-emacs-in-one-year-guide
+-->skulpt/skulpt
+Welcome to SkulptSkulpt is a Javascript implementation of Python 2.x.Python that runs in your browser!Python that runs on your iPad!Its being used several projects including, Interactive Python Textbooks -- You can see skulpt in action there.Try out some turtle graphics examples to see Skulpt in action.OriginsSkulpt is the brainchild of Scott Graham.See Skulpt.org for some early demos of skulpt in action.
+
+-->prakhar1989/awesome-courses
+Awesome CoursesIntroductionThere is a lot of hidden treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.Table of ContentsAlgorithmsArtificial IntelligenceComputer GraphicsCS TheoryIntroduction to CS
+
+-->prakhar1989/Algorithms
+Algorithms in PythonImplementations of a few algorithms and datastructures for fun and profit!CompletedKaratsuba MultiplicationBasic SortingRabin-Miller primality testSieve of Eratosthenes for prime numbersBinary SearchCounting Inversions in an array
+
+-->smallcorgi/Faster-RCNN_TF
+Update -->ring-clojure/ring
+RingRing is a Clojure web applications library inspired by Python's WSGIand Ruby's Rack. By abstracting the details of HTTP into a simple,unified API, Ring allows web applications to be constructed of modularcomponents that can be shared among a variety of applications, webservers, and web frameworks.The SPEC file at the root of this distribution provides acomplete description of the Ring interface.Upgrade Notice
+
+-->picocms/Pico
+PicoPico is a stupidly simple, blazing fast, flat file CMS.Visit us at http://picocms.org/ and see http://picocms.org/about/ for more info.ScreenshotInstallYou can install Pico either using a pre-bundled release or with composer. Pico is also available on Packagist.org and may be included in other projects via composer require picocms/pico. Pico requires PHP 5.3.6+Using a pre-bundled releaseJust download the latest Pico release and upload all files to the httpdocs directory (e.g. /var/www/html) of your server.Composer
+
+-->trustedsec/ptf
+The PenTesters Framework (PTF)A TrustedSec Project - Copyright 2016Written by: David Kennedy (@HackingDave)https://www.trustedsec.comTwitter: @TrustedSec, @HackingDaveThe PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing. As pentesters, we've been accustom to the /pentest/ directories or our own toolsets that we want to keep up-to-date all of the time. We have those "go to" tools that we use on a regular basis, and using the latest and greatest is important.PTF attempts to install all of your penetration testing tools (latest and greatest), compile them, build them, and make it so that you can install/update your distribution on any machine. Everything is organized in a fashion that is cohesive to the Penetration Testing Execution Standard (PTES) and eliminates a lot of things that are hardly used. PTF simplifies installation and packaging and creates an entire pentest framework for you. Since this is a framework, you can configure and add as you see fit. We commonly see internally developed repos that you can use as well as part of this framework. It's all up to you.The ultimate goal is for community support on this project. We want new tools added to the github repository. Submit your modules. It's super simple to configure and add them and only takes a few minute.Instructions:
+
+-->philliphsu/ClockPlus
+Clock+Clock+ is an alternative to the Google Clock app for Android, featuring UI/UX enhancements and new time pickers.LicenseCopyright (C) 2016 Phillip HsuLicensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, software
+
+-->walu/phpbook
+《PHP扩展开发及内核应用》11年年初因兴趣建立此项目，有幸得到大家关注，万分荣幸。现在把他迁移到github上，以方便更多人参与进来。项目阅读地址：http://www.walu.cc/phpbook撰写方法认领内容首先, 请在issues中建立一个新的issue, 说明你认领的内容, 和预计完成时间. 然后就可以Fork本项目进行编辑, 等你完成后, 发起一个Pull Request即可.文件命名每个章节建立一个md文件，如第11章的第3节，则建立11.3.md。格式规范
+
+-->xgrommx/rx-book
+Online book for RxJS documentationContact GitHubAPITrainingShopBlogAbout© 2016 GitHub, Inc.Terms
+
+-->xamarin/xamarin-forms-samples
+Xamarin.Forms SamplesSample apps built using the Xamarin.Forms framework.LicenseThe Apache License 2.0 applies to all samples in this repository.Copyright 2011 Xamarin IncLicensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0
+
+-->ufrisk/pcileech
+-->shidenggui/easyquotation
+easyquotation前言获取新浪的免费实时行情获取腾讯财经的免费实时行情获取 leverfun 的免费 Level 2 十档行情获取集思路的分级基金数据有兴趣的可以加群 429011814 一起讨论开发环境 : Ubuntu 15.10 / Python 3.5requirements
+
+-->OryxProject/oryx
+Oryx 2 is a realization of the lambda architecture built on Apache Sparkand Apache Kafka, but with specialization for real-time large scale machinelearning. It is a framework for building applications, but also includes packaged, end-to-endapplications for collaborative filtering, classification, regression and clustering.Proceed to the Oryx 2 site for full documentation.Just looking to deploy a ready-made, end-to-end application for collaborative filtering, clustering or classification? Easy.Proceed directly to:Prepare your Hadoop cluster with Cluster SetupGet a Release
+
+-->ra1028/Former
+Former is a fully customizable Swift library for easy creating UITableView based form.OverviewContentsRequirementsInstallationUsageSimple ExampleRowFormerViewFormer
+
+-->OpenZeppelin/zep-solidity
+Zeppelin SolidityZeppelin is a library for writing secure Smart Contracts on Ethereum.With Zeppelin, you can build distributed applications, protocols and organizations:using common contract security patterns (See Onward with Ethereum Smart Contract Security)in the Solidity language.Getting StartedZeppelin integrates with Truffle, an Ethereum development environment. Please install Truffle and initialize your project with truffle init.sudo npm install -g trufflemkdir myproject && cd myproject
+
+-->openresty/opm
+Nameopm - OpenResty Package ManagerTable of ContentsNameStatusSynopsisDescriptionUsageAuthor Workflow
+
+-->secdev/scapy
+ScapyScapy is a powerful Python-based interactive packet manipulationprogram and library.It is able to forge or decode packets of a wide number of protocols,send them on the wire, capture them, match requests and replies, andmuch more.It can easily handle most classical tasks like scanning, tracerouting,probing, unit tests, attacks or network discovery (it can replacehping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f,
+
+-->Open-Network-Insight/open-network-insight
+Open Network Insight The business of network security - the "port perspective"Open Network Insight is open source software for leveraging insights from flow and packet analysis. It helps enterprises and service providers gain insight on their compute environments through transparency of service delivery and identification of potential security threats or attacks happening among resources operating at cloud scale.While current threat intelligence tools help, identifying unknown threats and attacks remains a challenge. Open Network Insight provides tools to accelerate companies’ ability to expose suspicious connections and previously unseen attacks using flow and packet analysis technologies.OverviewWith the arrival of big data platforms, security organizations can now make data-driven decisions about how they protect their assets.Records of network traffic, captured as network flows, are often stored and analyzed for use in network management.An organization can use this same information to gain insight into what channels corporate information flows through.By taking into account additional context such as prevalent attacks and key protocols to the organization, the security team can develop a strategy that applies the right amount of per-channel risk mitigation based on the value of the data flowing through it.For an organization, we call this “the port perspective”.
+
+-->snowdream/awesome-android
+awesome-androidIntroductionandroid libs from github or other websitesRead it online:1.https://snowdream.github.io/awesome-android2.https://snowdream86.gitbooks.io/awesome-android/content/System requirementsAndroidNotice
+
+-->pelias/pelias
+PeliasA modular, open-source geocoder built on top of ElasticSearch for fast geocoding.Pelias is the project used to power Mapzen SearchWhat's a geocoder do anyway?Geocoding is the process of transforming input text, such as an address, or a name of a place—to a location on the earth's surface.... and a reverse geocoder, what's that?Reverse geocoding is the opposite: returning a list of places near a given point.What makes Pelias different from other geocoders?It's completely open-source and MIT licensed
+
+-->openaddresses/openaddresses
+OpenAddressesA global collection of address data sources, open and free to use. Join, download and contribute. We're just getting started.This repository is a collection of references to address data sources.See openaddresses.io for a data download.Contributing addressesOpen an issue and give information about where to find more address data. Be sure to include a link to the data and a description of the coverage area for the data.You can also create a pull request to the sources directory.More details in CONTRIBUTING.md.Why collect addresses?
+
+-->TimOliver/TOCropViewController
+Jul 20, 2016TOCropViewController.podspecBumped podspecOct 30, 2016breakdown.jpgUpdated the README.Jun 19, 2015screenshot.jpgUpdated screenshot and README
+
+-->onevcat/APNGKit
+APNGKit is a high performance framework for loading and displaying APNG images in iOS. It's built on top of a modified version of libpng with APNG support and written in Swift. High-level abstractions of Cocoa Touch is used for a delightful API. Since be that, you will feel at home and joy when using APNGKit to play with images in APNG format.APNG, what and why?The Animated Portable Network Graphics (APNG) is a file format extending the well-known PNG format. It allows for animated PNG files that work similarly to animated GIF files, while supporting 24-bit images and 8-bit transparency not available for GIFs. This means much better quality of animation. At the same time, the file size is comparable to or even less than, if created carefully, GIFs.Talk is cheap; show me the image. You can click on the image to see how it looks like when animating.That's cool. APNG is much better! But wait...why haven't I heard about APNG before? It is not a popular format, so why should I use it in my next great iOS app?Good question! APNG is an excellent extension for regular PNG, and it is also very simple to use and not conflicting with current PNG standard (It consists a standard PNG header, so if your platform does not support APNG, it will be recognized as a normal PNG with its first frame being displayed as a static image). But unfortunately, it is a rebel format so that it is not accepted by the PNG group. However, it is accepted by many vendors and is even mentioned in W3C Standards. There is another format called MNG (Multiple-image Network Graphics), which is created by the same team as PNG. It is a comprehensive format, but very very very (重要的事要说三遍) complex. It is so complex that despite being a "standard", it was almost universally rejected. There is only one "popular" browser called Konqueror(at least I have used it before when I was in high school) that supports MNG, which is really a sad but reasonable story.Even though APNG is not accepted currently, we continue to see the widespread implementation of it. Apple recently supported APNG in both desktop and mobile Safari. Microsoft Edge and Chrome are also considering adding APNG support since it is already officially added in WebKit core.APNG is such a nice format to bring users much better experience of animating images. The more APNG is used, the more recognition and support it will get. Not only in the browsers world, but also in the apps we always love. That's why I created this framework.Installation
+
+-->ondras/wwwsqldesigner
+WWW SQL Designer allows users to create database designs, which can be saved/loaded and exported to SQL scripts. Various databases and languages are supported. Ability to import existing database design.[YouTube video]AboutHi and welcome to WWW SQL Designer! This tool allows you to draw and create database schemas (E-R diagrams) directly in browser, without the need for any external programs (flash). You only need JavaScript enabled.The Designer works perfectly in Mozillas (Firefox, Seamonkey), Internet Explorers (6, 7, 8), Safari and Operas. Konqueror works, but the experience is limited.Many database features are supported, such as keys, foreign key constraints, comments and indexes. You can either save your design (for further loading & modifications), print it or export as SQL script. It is possible to retrieve (import) schema from existing database.WWW SQL Designer was created by Ondrej Zara and is built atop the oz.js JavaScript module. It is distributed under New BSD license.If you wish to support this project,at PayPal!
+
+-->olipo186/Git-Auto-Deploy
+What is it?Git-Auto-Deploy consists of a small HTTP server that listens for Web hook requests sent from GitHub, GitLab or Bitbucket servers. This application allows you to continuously and automatically deploy you projects each time you push new commits to your repository.How does it work?When commits are pushed to your Git repository, the Git server will notify Git-Auto-Deploy by sending a HTTP POST request with a JSON body to a pre configured URL (your-host:8001). The JSON body contains detailed information about the repository and what event that triggered the request. Git-Auto-Deploy parses and validates the request, and if all goes well it issues a git pull.Additionally, Git-Auto-Deploy can be configured to execute a shell command upon each successful git pull, which can be used to trigger custom build actions or test scripts.Getting startedYou can install Git-Auto-Deploy in multiple ways. Below are instructions for the most common methods.Install from PPA (recommended for debian systems)Add our PPA repository.
+
+-->scala-native/scala-native
+Scala NativeScala Native is a new ahead-of-time compiler and lightweight managed runtimedesigned specifically for Scala. Project is currently in pre-release stage.Follow us on twitter to be first to know about upcomingupdates.FeaturesLow-level primitives.@struct class Vec(val x: Double,
+
+-->shazow/ssh-chat
+ssh-chatCustom SSH server written in Go. Instead of a shell, you get a chat prompt.DemoJoin the party:$ ssh chat.shazow.netThe server's RSA key fingerprint is MD5:e5:d5:d1:75:90:38:42:f6:c7:03:d7:d0:56:7d:6a:db or SHA256:HQDLlZsXL3t0lV5CHM0OXeZ5O6PcfHuzkS8cRbbTLBI. If you see something different, you might be MITM'd.(Apologies if the server is down, try again shortly.)Downloading a releaseRecent releases include builds for MacOS (darwin/amd64) and Linux (386,
+
+-->stefanbuck/awesome-browser-extensions-for-github
+Awesome browser extensions for GitHubA collection of awesome browser extensions for GitHub.Table of ContentCodecov: Code Coverage OverlayCoderStats link for GitHubContributors on GitHubFollow Me or NotGifHubGitHub AST Viewer
+
+-->oblique/create_ap
+FeaturesCreate an AP (Access Point) at any channel.Choose one of the following encryptions: WPA, WPA2, WPA/WPA2, Open (no encryption).Hide your SSID.Disable communication between clients (client isolation).IEEE 802.11n & 802.11ac supportInternet sharing methods: NATed or Bridged or None (no Internet sharing).Choose the AP Gateway IP (only for 'NATed' and 'None' Internet sharing methods).You can create an AP with the same interface you are getting your Internet connection.
+
+-->outsideris/slack-invite-automation
+Slack Invite AutomationA tiny web application to invite a user into your slack team.Inspired byHow I hacked Slack into a community platform with TypeformandSocket.io's slack page.This project support Heroku, Azure and Cloud Foundry.SettingsYou can set variables for your own purpose in config.js or environment variables.
+
+-->yahoo/CaffeOnSpark
+CaffeOnSparkWhat's CaffeOnSpark?CaffeOnSpark brings deep learning to Hadoop and Spark clusters.Bycombining salient features from deep learning frameworkCaffe and big-data frameworks ApacheSpark and Apache Hadoop, CaffeOnSpark enables distributeddeep learning on a cluster of GPU and CPU servers.As a distributed extension of Caffe, CaffeOnSpark supports neural
+
+-->Wizzercn/NutzWk
+Oct 29, 2016apidoc.jsonadd: apidoc.jsonAug 11, 2016nutzwk_home.pngAdd files via uploadJul 31, 2016nutzwk_plugin.pngadd: nutzwk_plugin.png
+
+-->tmbdev/ocropy
+Nov 15, 2016README_OSX.mdAdd solution for OS X (clang)Feb 21, 2015ocropus-dewarpExpand documentation in the help of the commandsMay 23, 2015ocropus-econfExpand documentation in the help of the commands
+
+-->ntop/PF_RING
+Apr 29, 2016-->nsqio/go-nsq
+go-nsqThe official Go package for NSQ.DocsSee godoc and the main repo apps directory for examples of clients builtusing this package.TestsTests are run via ./test.sh (which requires nsqd and nsqlookupd to be installed).Contact GitHubAPI
+
+-->twitter-fabric/velocity-react
+velocity-reactReact components for interacting with theVelocity DOM animation library.Read our announcement blog post fordetails about why and how we built this.See the live demo.Latest version: v1.1.11 bumps velocity-animate to 1.3.1Note: v1.1.0 and later require React 0.14.Running the demo
+
+-->vishnubob/wait-for-it
+Update -->zeit/async-throttle
+async-throttleThrottling made simple, easy, async.How to useThis example fetches the <title> tag of the supplied websites,but it processes a maximum of two at a time.// depsconst fetch = require('node-fetch')const createThrottle = require('async-throttle')const cheerio = require('cheerio').load
+
+-->nnhubbard/ZSSRichTextEditor
+Updated -->oldmanpushcart/greys-anatomy
+线上系统为何经常出错？数据库为何屡遭黑手？业务调用为何频频失败？连环异常堆栈案，究竟是那次调用所为？数百台服务器意外雪崩背后又隐藏着什么？是软件的扭曲还是硬件的沦丧？走进科学带你了解Greys, Java线上问题诊断工具。相关文档关于软件程序安装入门说明常见问题更新记事
+
+-->nishad/udemy-dl
+Updated Readme.mdSep 1, 2016ROADMAP.mdMore to doJan 15, 2016requirements.txtUpdate requirements.txtAug 18, 2016setup.py
+
+-->nikic/FastRoute
+FastRoute - Fast request router for PHPThis library provides a fast implementation of a regular expression based router. Blog post explaining how theimplementation works and why it is fast.InstallTo install with composer:composer require nikic/fast-routeRequires PHP 5.4 or newer.UsageHere's a basic usage example:
+
+-->nicolaskruchten/pivottable
+-->nicoespeon/gitgraph.js
+Improve readability of markdown files as plaintextNov 19, 2016bower.jsonBump version and compileSep 2, 2016package.jsonBump version and compileSep 2, 2016
+
+-->nicklockwood/CountryPicker
+PurposeCountryPicker is a custom UIPickerView subclass that provides an iOS control allowing a user to select a country from a list. It can optionally display a flag next to each country name, and the library includes a set of 249 public domain flag images from https://github.com/koppi/iso-country-flags-svg-collection that have been renamed to work with the library.Note that the list of countries is based on the ISO 3166 country code standard (http://en.wikipedia.org/wiki/ISO_3166-1). This list excludes certain smaller countries, regarding them as part of a larger state. For example, England, Scotland, Wales and Northern Ireland are lumped together as Great Britain. For most purposes this is fine as it matches the convention used for locales, but if you need to specify additional countries, you can subclass and modify the countires list as described under "Subclassing" below.Supported iOS & SDK VersionsSupported build target - iOS 10.0 (Xcode 8.0, Apple LLVM compiler 8.0)Earliest supported deployment target - iOS 6.0Earliest compatible deployment target - iOS 5.0NOTE: 'Supported' means that the library has been tested with this version. 'Compatible' means that the library should work on this iOS version (i.e. it doesn't rely on any unavailable SDK features) but is no longer being tested for compatibility and may require tweaking or bug fixes to run correctly.ARC Compatibility
+
+-->xenoncat/equihash-xenon
+equihash-xenonEquihash proof-of-work solverscd Linux/demomake./solver_avx2API:#define CONTEXT_SIZE 178033152Application should allocate CONTEXT_SIZE bytes of memory as context for the solver. Memory alignment should be 4096. Failure to align by 32 will cause general protection exception.Multiple threads can be launched with separate context to solve multiple instances of equihash.
+
+-->Qihoo360/pika
+Nov 16, 2016README_CN.mdUpdate README_CN.mdNov 16, 2016USERS.mdUpdate USERS.mdNov 16, 2016release.shchange release.sh
+
+-->orbit/orbit
+Orbit is a framework to write distributed systems using virtual actors on the JVM. It allows developers to write highly distributed and scalable applications while greatly simplifying clustering, discovery, networking, state management, actor lifetime and more.Orbit received the 2016 Duke's Choice Award for Open Source, read here for more information.Full DocumentationSee the Wiki for full documentation, examples and other information.Developer & LicenseThis project was developed by Electronic Arts and is licensed under the BSD 3-Clause License.Simple ExampleJavapublic interface Hello extends Actor
+
+-->Netflix/ribbon
+RibbonRibbon is a client side IPC library that is battle-tested in cloud. It provides the following featuresLoad balancingFault toleranceMultiple protocol (HTTP, TCP, UDP) support in an asynchronous and reactive modelCaching and batchingTo get ribbon binaries, go to maven central. Here is an example to add dependency in Maven:<dependency><groupId>com.netflix.ribbon</groupId>
+
+-->Netflix/atlas
+AtlasBackend for managing dimensional time series data.LinksDocumentationMailing ListIssuesReleasesLicenseCopyright 2016 Netflix, Inc.
+
+-->vim-airline/vim-airline-themes
+vim-airline-themesThis is the official theme repository for vim-airline.InstallationThis plugin follows the standard runtime path structure, and as such it can be installed with a variety of plugin managers:Pathogengit clone https://github.com/vim-airline/vim-airline-themes ~/.vim/bundle/vim-airline-themesRemember to run :Helptags to generate help tagsNeoBundleNeoBundle 'vim-airline/vim-airline-themes'
+
+-->tencent-wechat/phxsql
+简体中文READMEPhxSQL is a high-availability and strong-consistency MySQL cluster built on Paxos and Percona.Authors: Junchao Chen, Haochuan Cui, Duokai Huang, Ming Chen and Sifan LiuContact us: phxteam@tencent.comPhxSQL features:high availability by automatic failovers: the cluster works well when more than half of cluster nodes work and are interconnected.guarantee of data consistency among cluster nodes: replacing loss-less semi-sync between MySQL master and MySQL slaves with Paxos, PhxSQL ensures zero-loss binlogs between master and slaves and supports linearizable consistency, which is as strong as that of Zookeeper.complete compliance with MySQL for and MySQL client: PhxSQL supports up to serializable isolation level of transaction.easy deployment and easy maintenance: PhxSQL, powered by in-house implementation of Paxos, has only 4 components including MySQL and doesn't depend on zookeeper or etcd for anything. PhxSql supports automated cluster membership hot reconfiguration.
+
+-->mybatis/spring
+Apr 5, 2016license.txt[ci skip] forgot to update the license.txt fileApr 10, 2016pom.xml[pom] Update ognl to 3.1.12Nov 19, 2016-->MvvmCross/MvvmCross
+May 6, 2016code_of_conduct.mdAdded Code of Conduct based on contributor-covenantMay 12, 2016-->TMRh20/RF24
+Apr 14, 2016RF24.cppPer #242 change binary to hexNov 10, 2016RF24.hPer #242 change binary to hexNov 10, 2016RF24_config.hAdd to RF24: Arduino Due supported in SPI_UART
+
+-->muan/mojibar
+-->MTG/sms-tools
+sms-toolsSound analysis/synthesis tools for music applications written in python (with a bit of C) plus complementary lecture materials.How to useIn order to use these tools you have to install version 2.7.* of python and the following modules: ipython, numpy, matplotlib, scipy, and cython.In Ubuntu (which we strongly recommend) in order to install all these modules it is as simple as typing in the Terminal:$ sudo apt-get install python-dev ipython python-numpy python-matplotlib python-scipy cythonIn OSX (which we do not support but that should work) you install these modules by typing in the Terminal:$ pip install ipython numpy matplotlib scipy cythonthen, for using the tools, after downloading the whole package, you need to compile some C functions. For that you should go to the directory software/models/utilFunctions_C and type:
+
+-->MrS0m30n3/youtube-dl-gui
+Sep 16, 2016TODOUpdate TODO listSep 17, 2016setup.pyAdd osx app creation.Jun 21, 2015-->silinternational/ecs-deploy
+ecs-deployThis script uses the Task Definition and Service entities in Amazon's ECS to instigate an automatic blue/green deployment.UsageRequired arguments:-k | --aws-access-keyAWS Access Key ID. May also be set as environment variable AWS_ACCESS_KEY_ID-s | --aws-secret-keyAWS Secret Access Key. May also be set as environment variable AWS_SECRET_ACCESS_KEY-r | --region
+
+-->mroderick/PubSubJS
+Dec 10, 2015RakefileAdding jQuery plugin support via rake taskJul 2, 2012autolint.jsVersion 1.3.3Dec 2, 2012bower.jsonv1.5.3
+
